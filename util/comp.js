@@ -64,6 +64,7 @@ function transform(data, site) {
 }
 
 var sites = [
+/*
   "beta.abc.go.com_shows",
   "live.wsj.com",
   "movies.uk.msn.com",
@@ -86,6 +87,7 @@ var sites = [
   "www.twitch.tv",
   "www.ustream.tv_new",
   "www.vevo.com",
+*/
   "www.youtube.com",
 ];
 
