@@ -3,30 +3,40 @@ function parse(text) {
   text = text.replace(/get /g, "get$");
   text = text.replace(/set /g, "set$");
   var lines = text.split("\n");
-  var pack = function () {
+  var pkg = function () {
     var x = rest.split("::");
     rest = x.pop();
     return x.length ? x.pop() : "";
   };
-  var clas = function () {
+  var cls = function () {
     var x = rest.split("/");
     rest = x.pop();
     return x.length ? x.pop() : "";
   };
-  var meth = function () {
+  var mth = function () {
     var x = rest.split(" ");
     rest = x.pop();
     return x.length ? x.pop().split("$").join(" ") : "";
   };
+  var sts = function () {   // status = {0, 1}
+    var x = rest.split("\t");
+    if (x.length === 1) {
+      var sts = undefined;
+    } else {
+      var sts = x.pop().trim();
+    }
+    return sts;
+  }
   var rest;
   lines.forEach(function(v, i) {
     rest = v.trim();
     var r = {};
     if (rest) {
       data.push({
-        package: pack(),
-        class: clas(),
-        method: meth(),
+        pkg: pkg(),
+        cls: cls(),
+        mth: mth(),
+        sts: sts(),
       });
     }
   });
@@ -49,22 +59,26 @@ function transform(data, site) {
     }
     return child;
   };
-  var add = function (p, c, m) {
+  var add = function (p, c, m, s) {
     var child = getChild(getChild(getChild(model, p), c), m)
-    if (!child.sites) {
-      child.sites = [];
+    // if we have 's', then we use this child just for status. don't add a child
+    if (s === undefined) {
+      if (!child.sites) {
+        child.sites = [];
+      }
+      child.sites.push(site);
+    } else {
+      child.status = s;
     }
-    child.sites.push(site);
     delete child["children"];
   };
   data.forEach(function (v, i) {
-    add(v["package"], v["class"], v["method"], v["count"]);
+    add(v.pkg, v.cls, v.mth, v.sts);
   });
   return model;
 }
 
 var sites = [
-/*
   "beta.abc.go.com_shows",
   "live.wsj.com",
   "movies.uk.msn.com",
@@ -76,7 +90,6 @@ var sites = [
   "www.cbc.ca_player",
   "www.cnn.com_video",
   "www.dailymotion.com",
-  "www.facebook.com",
   "www.funnyordie.com",
   "www.grindtv.com",
   "www.guardian.co.uk_video",
@@ -87,8 +100,9 @@ var sites = [
   "www.twitch.tv",
   "www.ustream.tv_new",
   "www.vevo.com",
-*/
+  "www.facebook.com",
   "www.youtube.com",
+  "api-status",
 ];
 
 sites.forEach(function (v, i) {
@@ -96,3 +110,5 @@ sites.forEach(function (v, i) {
 })
 
 print(JSON.stringify(model, null, 2));
+
+print(arguments);
