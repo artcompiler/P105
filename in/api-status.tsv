@@ -1,0 +1,2230 @@
+Object$/_hasOwnProperty ()	1
+Object$/_propertyIsEnumerable ()	1
+Object$/_setPropertyIsEnumerable ()	1
+Object$/_isPrototypeOf ()	1
+Object$/_toString ()	1
+Class/get prototype ()	1
+Function/get prototype ()	1
+Function/set prototype ()	1
+Function/get length ()	1
+Function/call ()	1
+Function/apply ()	1
+Namespace/get prefix ()	1
+Namespace/get uri ()	1
+Number$/abs ()	1
+Number$/acos ()	1
+Number$/asin ()	1
+Number$/atan ()	1
+Number$/ceil ()	1
+Number$/cos ()	1
+Number$/exp ()	1
+Number$/floor ()	1
+Number$/log ()	1
+Number$/round ()	1
+Number$/sin ()	1
+Number$/sqrt ()	1
+Number$/tan ()	1
+Number$/atan2 ()	1
+Number$/pow ()	1
+Number$/max ()	1
+Number$/min ()	1
+Number$/random ()	1
+Number$/_numberToString ()	1
+Number$/_convert ()	1
+Number$/_minValue ()	1
+String$/fromCharCode ()	1
+String$/_match ()	1
+String$/_replace ()	1
+String$/_search ()	1
+String$/_split ()	1
+String/get length ()	1
+String/_indexOf ()	1
+String/indexOf ()	1
+String/_lastIndexOf ()	1
+String/lastIndexOf ()	1
+String/charAt ()	1
+String/charCodeAt ()	1
+String/localeCompare ()	0
+String/_slice ()	1
+String/slice ()	1
+String/_substring ()	1
+String/substring ()	1
+String/_substr ()	1
+String/substr ()	1
+String/toLowerCase ()	1
+String/toUpperCase ()	1
+Array$/_pop ()	1
+Array$/_reverse ()	1
+Array$/_concat ()	1
+Array$/_shift ()	1
+Array$/_slice ()	1
+Array$/_unshift ()	1
+Array$/_splice ()	1
+Array$/_sort ()	1
+Array$/_sortOn ()	1
+Array$/_indexOf ()	1
+Array$/_lastIndexOf ()	1
+Array$/_every ()	1
+Array$/_filter ()	1
+Array$/_forEach ()	1
+Array$/_map ()	1
+Array$/_some ()	1
+Array/get length ()	1
+Array/set length ()	1
+Array/pop ()	1
+Array/push ()	1
+Array/unshift ()	1
+global/bugzilla ()	1
+global/decodeURI ()	1
+global/decodeURIComponent ()	1
+global/encodeURI ()	1
+global/encodeURIComponent ()	1
+global/isNaN ()	1
+global/isFinite ()	1
+global/parseInt ()	1
+global/parseFloat ()	1
+global/escape ()	1
+global/unescape ()	1
+global/isXMLName ()	1
+__AS3__.vec::Vector$object$/_every ()	1
+__AS3__.vec::Vector$object$/_forEach ()	1
+__AS3__.vec::Vector$object$/_some ()	1
+__AS3__.vec::Vector$object$/_sort ()	1
+__AS3__.vec::Vector$object/newThisType ()	1
+__AS3__.vec::Vector$object/get length ()	1
+__AS3__.vec::Vector$object/set length ()	1
+__AS3__.vec::Vector$object/set fixed ()	1
+__AS3__.vec::Vector$object/get fixed ()	1
+__AS3__.vec::Vector$object/push ()	1
+__AS3__.vec::Vector$object/_reverse ()	1
+__AS3__.vec::Vector$object/_spliceHelper ()	1
+__AS3__.vec::Vector$object/unshift ()	1
+__AS3__.vec::Vector$object/_filter ()	1
+__AS3__.vec::Vector$object/_map ()	1
+__AS3__.vec::Vector$object/pop ()	1
+__AS3__.vec::Vector$object/shift ()	1
+__AS3__.vec::Vector$int$/_every ()	1
+__AS3__.vec::Vector$int$/_forEach ()	1
+__AS3__.vec::Vector$int$/_some ()	1
+__AS3__.vec::Vector$int$/_sort ()	1
+__AS3__.vec::Vector$int/newThisType ()	1
+__AS3__.vec::Vector$int/get length ()	1
+__AS3__.vec::Vector$int/set length ()	1
+__AS3__.vec::Vector$int/set fixed ()	1
+__AS3__.vec::Vector$int/get fixed ()	1
+__AS3__.vec::Vector$int/push ()	1
+__AS3__.vec::Vector$int/_reverse ()	1
+__AS3__.vec::Vector$int/_spliceHelper ()	1
+__AS3__.vec::Vector$int/unshift ()	1
+__AS3__.vec::Vector$int/_filter ()	1
+__AS3__.vec::Vector$int/_map ()	1
+__AS3__.vec::Vector$int/pop ()	1
+__AS3__.vec::Vector$int/shift ()	1
+__AS3__.vec::Vector$uint$/_every ()	1
+__AS3__.vec::Vector$uint$/_forEach ()	1
+__AS3__.vec::Vector$uint$/_some ()	1
+__AS3__.vec::Vector$uint$/_sort ()	1
+__AS3__.vec::Vector$uint/newThisType ()	1
+__AS3__.vec::Vector$uint/get length ()	1
+__AS3__.vec::Vector$uint/set length ()	1
+__AS3__.vec::Vector$uint/set fixed ()	1
+__AS3__.vec::Vector$uint/get fixed ()	1
+__AS3__.vec::Vector$uint/push ()	1
+__AS3__.vec::Vector$uint/_reverse ()	1
+__AS3__.vec::Vector$uint/_spliceHelper ()	1
+__AS3__.vec::Vector$uint/unshift ()	1
+__AS3__.vec::Vector$uint/_filter ()	1
+__AS3__.vec::Vector$uint/_map ()	1
+__AS3__.vec::Vector$uint/pop ()	1
+__AS3__.vec::Vector$uint/shift ()	1
+__AS3__.vec::Vector$double$/_every ()	1
+__AS3__.vec::Vector$double$/_forEach ()	1
+__AS3__.vec::Vector$double$/_some ()	1
+__AS3__.vec::Vector$double$/_sort ()	1
+__AS3__.vec::Vector$double/newThisType ()	1
+__AS3__.vec::Vector$double/get length ()	1
+__AS3__.vec::Vector$double/set length ()	1
+__AS3__.vec::Vector$double/set fixed ()	1
+__AS3__.vec::Vector$double/get fixed ()	1
+__AS3__.vec::Vector$double/push ()	1
+__AS3__.vec::Vector$double/_reverse ()	1
+__AS3__.vec::Vector$double/_spliceHelper ()	1
+__AS3__.vec::Vector$double/unshift ()	1
+__AS3__.vec::Vector$double/_filter ()	1
+__AS3__.vec::Vector$double/_map ()	1
+__AS3__.vec::Vector$double/pop ()	1
+__AS3__.vec::Vector$double/shift ()	1
+global/describeTypeJSON ()	1
+global/getQualifiedClassName ()	1
+global/getQualifiedSuperclassName ()	1
+flash.xml::XMLTag/get type ()	1
+flash.xml::XMLTag/set type ()	1
+flash.xml::XMLTag/get empty ()	1
+flash.xml::XMLTag/set empty ()	1
+flash.xml::XMLTag/get value ()	1
+flash.xml::XMLTag/set value ()	1
+flash.xml::XMLTag/get attrs ()	1
+flash.xml::XMLTag/set attrs ()	1
+flash.sampler::NewObjectSample/get object ()	1
+flash.sampler::NewObjectSample/get size ()	1
+global/clearSamples ()	1
+global/startSampling ()	1
+global/stopSampling ()	1
+global/pauseSampling ()	1
+global/sampleInternalAllocs ()	1
+global/_setSamplerCallback ()	1
+global/getSize ()	1
+global/getMemberNames ()	1
+global/_getSamples ()	1
+global/getSampleCount ()	1
+global/_getInvocationCount ()	1
+global/isGetterSetter ()	1
+global/getLexicalScopes ()	1
+global/getSavedThis ()	1
+global/getMasterString ()	1
+global/registerClassAlias ()	1
+global/getClassByAlias ()	1
+flash.net::Responder/ctor ()	0
+flash.utils::ObjectInput/readBytes ()	0
+flash.utils::ObjectInput/readBoolean ()	0
+flash.utils::ObjectInput/readByte ()	0
+flash.utils::ObjectInput/readUnsignedByte ()	0
+flash.utils::ObjectInput/readShort ()	0
+flash.utils::ObjectInput/readUnsignedShort ()	0
+flash.utils::ObjectInput/readInt ()	0
+flash.utils::ObjectInput/readUnsignedInt ()	0
+flash.utils::ObjectInput/readFloat ()	0
+flash.utils::ObjectInput/readDouble ()	0
+flash.utils::ObjectInput/readMultiByte ()	0
+flash.utils::ObjectInput/readUTF ()	0
+flash.utils::ObjectInput/readUTFBytes ()	0
+flash.utils::ObjectInput/get bytesAvailable ()	0
+flash.utils::ObjectInput/readObject ()	0
+flash.utils::ObjectInput/get objectEncoding ()	0
+flash.utils::ObjectInput/set objectEncoding ()	0
+flash.utils::ObjectInput/get endian ()	0
+flash.utils::ObjectInput/set endian ()	0
+flash.geom::PerspectiveProjection/ctor ()	0
+flash.geom::PerspectiveProjection/get fieldOfView ()	0
+flash.geom::PerspectiveProjection/set fieldOfView ()	0
+flash.geom::PerspectiveProjection/get projectionCenter ()	0
+flash.geom::PerspectiveProjection/set projectionCenter ()	0
+flash.geom::PerspectiveProjection/get focalLength ()	0
+flash.geom::PerspectiveProjection/set focalLength ()	0
+flash.geom::PerspectiveProjection/toMatrix3D ()	0
+flash.events::EventDispatcher/ctor ()	1
+flash.events::EventDispatcher/addEventListener ()	1
+flash.events::EventDispatcher/removeEventListener ()	1
+flash.events::EventDispatcher/hasEventListener ()	1
+flash.events::EventDispatcher/willTrigger ()	1
+flash.events::EventDispatcher/dispatchEventFunction ()	1
+flash.display::Stage3D/get context3D ()	0
+flash.display::Stage3D/requestContext3D ()	0
+flash.display::Stage3D/get x ()	0
+flash.display::Stage3D/set x ()	0
+flash.display::Stage3D/get y ()	0
+flash.display::Stage3D/set y ()	0
+flash.display::Stage3D/get visible ()	0
+flash.display::Stage3D/set visible ()	0
+flash.sensors::Geolocation$/get isSupported ()	0
+flash.sensors::Geolocation/setRequestedUpdateInterval ()	0
+flash.sensors::Geolocation/get muted ()	0
+Error$/getErrorMessage ()	1
+Error/getStackTrace ()	.5
+flash.text.engine::ContentElement/get textBlock ()	0
+flash.text.engine::ContentElement/get textBlockBeginIndex ()	0
+flash.text.engine::ContentElement/get elementFormat ()	0
+flash.text.engine::ContentElement/set elementFormat ()	0
+flash.text.engine::ContentElement/get eventMirror ()	0
+flash.text.engine::ContentElement/set eventMirror ()	0
+flash.text.engine::ContentElement/get groupElement ()	0
+flash.text.engine::ContentElement/get rawText ()	0
+flash.text.engine::ContentElement/get text ()	0
+flash.text.engine::ContentElement/get textRotation ()	0
+flash.text.engine::ContentElement/set textRotation ()	0
+flash.text.engine::TextElement/set text ()	0
+flash.text.engine::TextElement/replaceText ()	0
+flash.concurrent::Mutex/lock ()	0
+flash.concurrent::Mutex/tryLock ()	0
+flash.concurrent::Mutex/unlock ()	0
+flash.concurrent::Mutex/ctor ()	0
+flash.concurrent::Condition/get mutex ()	0
+flash.concurrent::Condition/ctor ()	0
+flash.concurrent::Condition/notifyImpl ()	0
+flash.concurrent::Condition/notifyAllImpl ()	0
+flash.concurrent::Condition/waitImpl ()	0
+global/mfence ()	0
+global/casi32 ()	0
+flash.ui::ContextMenu$/_checkSupported ()	0
+flash.ui::ContextMenu/get builtInItems ()	.5
+flash.ui::ContextMenu/set builtInItems ()	.5
+flash.ui::ContextMenu/get customItems ()	.5
+flash.ui::ContextMenu/set customItems ()	.5
+flash.ui::ContextMenu/get link ()	0
+flash.ui::ContextMenu/set link ()	0
+flash.ui::ContextMenu/get clipboardMenu ()	0
+flash.ui::ContextMenu/set clipboardMenu ()	0
+flash.ui::ContextMenu/get clipboardItems ()	0
+flash.ui::ContextMenu/set clipboardItems ()	0
+flash.ui::ContextMenu/cloneLinkAndClipboardProperties ()	0
+flash.net.drm::DRMManagerSession/getLastError ()	0
+flash.net.drm::DRMManagerSession/getLastSubErrorID ()	0
+flash.net.drm::DRMManagerSession/issueDRMStatusEventInner ()	0
+flash.net.drm::DRMManagerSession/issueDRMErrorEvent ()	0
+flash.net.drm::DRMManagerSession/errorCodeToThrow ()	0
+flash.net.drm::DRMManagerSession/checkStatusInner ()	0
+flash.net.drm::DRMAuthenticationContext/authenticateInner ()	0
+flash.net.drm::DRMAuthenticationContext/getTokenInner ()	0
+flash.net.drm::DRMVoucher/getEndDateInner ()	0
+flash.net.drm::DRMVoucher/getStartDateInner ()	0
+flash.net.drm::DRMVoucher/getOfflineLeaseStartDateInner ()	0
+flash.net.drm::DRMVoucher/getOfflineLeaseExpirationDateInner ()	0
+flash.net.drm::DRMVoucher/createCustomPolicyObject ()	0
+flash.net.drm::DRMVoucher/get playStartTime ()	0
+flash.net.drm::DRMVoucher/get playbackEndTime ()	0
+flash.net.drm::DRMVoucher/get playbackWindow ()	0
+flash.net.drm::DRMVoucher/createDRMPlaybackTimeWindow ()	0
+flash.net.drm::DRMVoucher/toByteArrayInner ()	0
+flash.net.drm::DRMVoucherDownloadContext/downloadInner ()	0
+flash.net.drm::DRMVoucherDownloadContext/getVoucherInner ()	0
+flash.net.drm::DRMVoucherStoreContext/getVoucherFromStoreInner ()	0
+flash.net.drm::DRMVoucherStoreContext/getVoucherInner ()	0
+flash.net.drm::DRMManager$/createDRMManager ()	0
+flash.net.drm::DRMManager$/_checkSupported ()	0
+flash.net.drm::DRMManager$/isCalledFromRemoteSWF ()	0
+flash.net.drm::DRMManager/setSAMLTokenInner ()	0
+flash.net.drm::DRMManager/errorCodeToThrow ()	0
+flash.net.drm::DRMManager/issueDRMStatusEvent ()	0
+flash.net.drm::DRMManager/issueDRMErrorEvent ()	0
+flash.net.drm::DRMManager/storeVoucherInner ()	0
+flash.net.drm::DRMModuleCycleProvider/iHeartBeat ()	0
+flash.net.drm::DRMURLDownloadContext/iOnDownloadComplete ()	0
+flash.net.drm::DRMURLDownloadContext/iOnIOError ()	0
+flash.net.drm::DRMURLDownloadContext/iOnSecurityError ()	0
+flash.display::DisplayObject/get root ()	1
+flash.display::DisplayObject/get stage ()	1
+flash.display::DisplayObject/get name ()	1
+flash.display::DisplayObject/set name ()	1
+flash.display::DisplayObject/get parent ()	1
+flash.display::DisplayObject/get mask ()	1
+flash.display::DisplayObject/set mask ()	1
+flash.display::DisplayObject/get visible ()	1
+flash.display::DisplayObject/set visible ()	1
+flash.display::DisplayObject/get x ()	1
+flash.display::DisplayObject/set x ()	1
+flash.display::DisplayObject/get y ()	1
+flash.display::DisplayObject/set y ()	1
+flash.display::DisplayObject/get z ()	1
+flash.display::DisplayObject/set z ()	1
+flash.display::DisplayObject/get scaleX ()	1
+flash.display::DisplayObject/set scaleX ()	1
+flash.display::DisplayObject/get scaleY ()	1
+flash.display::DisplayObject/set scaleY ()	1
+flash.display::DisplayObject/get scaleZ ()	1
+flash.display::DisplayObject/set scaleZ ()	1
+flash.display::DisplayObject/get mouseX ()	1
+flash.display::DisplayObject/get mouseY ()	1
+flash.display::DisplayObject/get rotation ()	1
+flash.display::DisplayObject/set rotation ()	1
+flash.display::DisplayObject/get rotationX ()	1
+flash.display::DisplayObject/set rotationX ()	1
+flash.display::DisplayObject/get rotationY ()	1
+flash.display::DisplayObject/set rotationY ()	1
+flash.display::DisplayObject/get rotationZ ()	1
+flash.display::DisplayObject/set rotationZ ()	1
+flash.display::DisplayObject/get alpha ()	1
+flash.display::DisplayObject/set alpha ()	1
+flash.display::DisplayObject/get width ()	1
+flash.display::DisplayObject/set width ()	1
+flash.display::DisplayObject/get height ()	1
+flash.display::DisplayObject/set height ()	1
+flash.display::DisplayObject/get cacheAsBitmap ()	1
+flash.display::DisplayObject/set cacheAsBitmap ()	1
+flash.display::DisplayObject/get opaqueBackground ()	1
+flash.display::DisplayObject/set opaqueBackground ()	1
+flash.display::DisplayObject/get scrollRect ()	1
+flash.display::DisplayObject/set scrollRect ()	1
+flash.display::DisplayObject/get filters ()	1
+flash.display::DisplayObject/set filters ()	1
+flash.display::DisplayObject/get blendMode ()	1
+flash.display::DisplayObject/set blendMode ()	1
+flash.display::DisplayObject/get transform ()	1
+flash.display::DisplayObject/set transform ()	1
+flash.display::DisplayObject/get scale9Grid ()	1
+flash.display::DisplayObject/set scale9Grid ()	1
+flash.display::DisplayObject/globalToLocal ()	1
+flash.display::DisplayObject/localToGlobal ()	1
+flash.display::DisplayObject/getBounds ()	1
+flash.display::DisplayObject/getRect ()	1
+flash.display::DisplayObject/get loaderInfo ()	1
+flash.display::DisplayObject/_hitTest ()	1
+flash.display::DisplayObject/get accessibilityProperties ()	1
+flash.display::DisplayObject/set accessibilityProperties ()	1
+flash.display::DisplayObject/globalToLocal3D ()	1
+flash.display::DisplayObject/local3DToGlobal ()	1
+flash.display::DisplayObject/set blendShader ()	1
+flash.display::Bitmap/ctor ()	1
+flash.display::Bitmap/get pixelSnapping ()	1
+flash.display::Bitmap/set pixelSnapping ()	1
+flash.display::Bitmap/get smoothing ()	1
+flash.display::Bitmap/set smoothing ()	1
+flash.display::Bitmap/get bitmapData ()	1
+flash.display::Bitmap/set bitmapData ()	1
+flash.globalization::DateTimeFormatter$/getAvailableLocaleIDNames ()	0
+flash.globalization::DateTimeFormatter/ctor ()	0
+flash.globalization::DateTimeFormatter/setDateTimeStyles ()	0
+flash.globalization::DateTimeFormatter/getTimeStyle ()	0
+flash.globalization::DateTimeFormatter/getDateStyle ()	0
+flash.globalization::DateTimeFormatter/get lastOperationStatus ()	0
+flash.globalization::DateTimeFormatter/get requestedLocaleIDName ()	0
+flash.globalization::DateTimeFormatter/get actualLocaleIDName ()	0
+flash.globalization::DateTimeFormatter/formatImplementation ()	0
+flash.globalization::DateTimeFormatter/getMonthNames ()	0
+flash.globalization::DateTimeFormatter/getWeekdayNames ()	0
+flash.globalization::DateTimeFormatter/getFirstWeekday ()	0
+flash.globalization::DateTimeFormatter/getDateTimePattern ()	0
+flash.globalization::DateTimeFormatter/setDateTimePattern ()	0
+flash.system::FSCommand$/_fscommand ()	0
+global/MMExecute ()	0
+global/MMEndCommand ()	0
+flash.external::ExternalInterface$/get available ()	1
+flash.external::ExternalInterface$/_initJS ()	1
+flash.external::ExternalInterface$/_getPropNames ()	1
+flash.external::ExternalInterface$/get objectID ()	1
+flash.external::ExternalInterface$/get activeX ()	1
+flash.external::ExternalInterface$/_addCallback ()	1
+flash.external::ExternalInterface$/_evalJS ()	1
+flash.external::ExternalInterface$/_callOut ()	1
+flash.system::Security$/allowDomain ()	0.5
+flash.system::Security$/allowInsecureDomain ()	0
+flash.system::Security$/loadPolicyFile ()	0
+flash.system::Security$/get exactSettings ()	1
+flash.system::Security$/set exactSettings ()	1
+flash.system::Security$/get disableAVM1Loading ()	0
+flash.system::Security$/set disableAVM1Loading ()	0
+flash.system::Security$/duplicateSandboxBridgeInputArguments ()	0
+flash.system::Security$/duplicateSandboxBridgeOutputArgument ()	0
+flash.system::Security$/showSettings ()	0
+flash.system::Security$/get sandboxType ()	0.5
+flash.system::Security$/get pageDomain ()	0
+flash.events::Event/ctor ()	1
+flash.events::Event/get type ()	1
+flash.events::Event/get bubbles ()	1
+flash.events::Event/get cancelable ()	1
+flash.events::Event/get target ()	1
+flash.events::Event/get currentTarget ()	1
+flash.events::Event/get eventPhase ()	1
+flash.events::Event/stopPropagation ()	1
+flash.events::Event/stopImmediatePropagation ()	1
+flash.events::Event/preventDefault ()	1
+flash.events::Event/isDefaultPrevented ()	1
+flash.events::KeyboardEvent/get charCode ()	1
+flash.events::KeyboardEvent/set charCode ()	1
+flash.events::KeyboardEvent/get ctrlKey ()	1
+flash.events::KeyboardEvent/set ctrlKey ()	1
+flash.events::KeyboardEvent/get altKey ()	1
+flash.events::KeyboardEvent/set altKey ()	1
+flash.events::KeyboardEvent/get shiftKey ()	1
+flash.events::KeyboardEvent/set shiftKey ()	1
+flash.events::KeyboardEvent/updateAfterEvent ()	1
+global/navigateToURL ()	0.5
+global/sendToURL ()	1
+flash.ui::GameInputControl/get numValues ()	0
+flash.ui::GameInputControl/get index ()	0
+flash.ui::GameInputControl/getValueAt ()	0
+flash.ui::GameInputControl/get relative ()	0
+flash.ui::GameInputControl/get type ()	0
+flash.ui::GameInputControl/get hand ()	0
+flash.ui::GameInputControl/get finger ()	0
+flash.ui::GameInputControl/get device ()	0
+flash.utils::Timer/get running ()	0
+flash.utils::Timer/_start ()	0
+flash.utils::Timer/_timerDispatch ()	0
+flash.utils::Timer/stop ()	0
+flash.text.engine::TextJustifier/get locale ()	0
+flash.text.engine::TextJustifier/setLocale ()	0
+flash.text.engine::TextJustifier/get lineJustification ()	0
+flash.text.engine::TextJustifier/set lineJustification ()	0
+flash.media::Microphone$/getMicrophone ()	0
+flash.media::Microphone$/get names ()	0
+flash.media::Microphone$/get isSupported ()	0
+flash.media::Microphone$/getEnhancedMicrophone ()	0
+flash.media::Microphone/set gain ()	0
+flash.media::Microphone/set rate ()	0
+flash.media::Microphone/get rate ()	0
+flash.media::Microphone/set codec ()	0
+flash.media::Microphone/get codec ()	0
+flash.media::Microphone/get framesPerPacket ()	0
+flash.media::Microphone/set framesPerPacket ()	0
+flash.media::Microphone/get encodeQuality ()	0
+flash.media::Microphone/set encodeQuality ()	0
+flash.media::Microphone/get noiseSuppressionLevel ()	0
+flash.media::Microphone/set noiseSuppressionLevel ()	0
+flash.media::Microphone/get enableVAD ()	0
+flash.media::Microphone/set enableVAD ()	0
+flash.media::Microphone/setSilenceLevel ()	0
+flash.media::Microphone/setUseEchoSuppression ()	0
+flash.media::Microphone/get activityLevel ()	0
+flash.media::Microphone/get gain ()	0
+flash.media::Microphone/get index ()	0
+flash.media::Microphone/get muted ()	0
+flash.media::Microphone/get name ()	0
+flash.media::Microphone/get silenceLevel ()	0
+flash.media::Microphone/get silenceTimeout ()	0
+flash.media::Microphone/get useEchoSuppression ()	0
+flash.media::Microphone/setLoopBack ()	0
+flash.media::Microphone/get soundTransform ()	0
+flash.media::Microphone/set soundTransform ()	0
+flash.media::Microphone/get enhancedOptions ()	0
+flash.media::Microphone/set enhancedOptions ()	0
+flash.sensors::Accelerometer$/get isSupported ()	0
+flash.sensors::Accelerometer/setRequestedUpdateInterval ()	0
+flash.sensors::Accelerometer/get muted ()	0
+flash.display3D.textures::TextureBase/dispose ()	0
+flash.display3D.textures::Texture/uploadFromBitmapData ()	0
+flash.display3D.textures::Texture/uploadFromByteArray ()	0
+flash.display3D.textures::Texture/uploadCompressedTextureFromByteArray ()	0
+flash.net.drm::DRMDeviceGroup/dummy ()	0
+flash.display::InteractiveObject/get tabEnabled ()	1
+flash.display::InteractiveObject/set tabEnabled ()	1
+flash.display::InteractiveObject/get tabIndex ()	1
+flash.display::InteractiveObject/set tabIndex ()	1
+flash.display::InteractiveObject/get focusRect ()	1
+flash.display::InteractiveObject/set focusRect ()	1
+flash.display::InteractiveObject/get mouseEnabled ()	1
+flash.display::InteractiveObject/set mouseEnabled ()	1
+flash.display::InteractiveObject/get doubleClickEnabled ()	1
+flash.display::InteractiveObject/set doubleClickEnabled ()	1
+flash.display::InteractiveObject/get accessibilityImplementation ()	0
+flash.display::InteractiveObject/set accessibilityImplementation ()	0
+flash.display::InteractiveObject/get softKeyboardInputAreaOfInterest ()	0
+flash.display::InteractiveObject/set softKeyboardInputAreaOfInterest ()	0
+flash.display::InteractiveObject/get needsSoftKeyboard ()	0
+flash.display::InteractiveObject/set needsSoftKeyboard ()	0
+flash.display::InteractiveObject/requestSoftKeyboard ()	0
+flash.display::InteractiveObject/get contextMenu ()	0.5
+flash.display::InteractiveObject/set contextMenu ()	0.5
+flash.display::DisplayObjectContainer/addChild ()	1
+flash.display::DisplayObjectContainer/addChildAt ()	1
+flash.display::DisplayObjectContainer/removeChild ()	1
+flash.display::DisplayObjectContainer/removeChildAt ()	1
+flash.display::DisplayObjectContainer/getChildIndex ()	1
+flash.display::DisplayObjectContainer/setChildIndex ()	1
+flash.display::DisplayObjectContainer/getChildAt ()	1
+flash.display::DisplayObjectContainer/getChildByName ()	1
+flash.display::DisplayObjectContainer/get numChildren ()	1
+flash.display::DisplayObjectContainer/get textSnapshot ()	0
+flash.display::DisplayObjectContainer/getObjectsUnderPoint ()	0
+flash.display::DisplayObjectContainer/areInaccessibleObjectsUnderPoint ()	0
+flash.display::DisplayObjectContainer/get tabChildren ()	1
+flash.display::DisplayObjectContainer/set tabChildren ()	1
+flash.display::DisplayObjectContainer/get mouseChildren ()	1
+flash.display::DisplayObjectContainer/set mouseChildren ()	1
+flash.display::DisplayObjectContainer/contains ()	1
+flash.display::DisplayObjectContainer/swapChildrenAt ()	1
+flash.display::DisplayObjectContainer/swapChildren ()	1
+flash.display::DisplayObjectContainer/removeChildren ()	1
+flash.display::Stage/get frameRate ()	1
+flash.display::Stage/set frameRate ()	1
+flash.display::Stage/invalidate ()	0
+flash.display::Stage/get scaleMode ()	1
+flash.display::Stage/set scaleMode ()	1
+flash.display::Stage/get align ()	1
+flash.display::Stage/set align ()	1
+flash.display::Stage/get stageWidth ()	1
+flash.display::Stage/set stageWidth ()	1
+flash.display::Stage/get stageHeight ()	1
+flash.display::Stage/set stageHeight ()	1
+flash.display::Stage/get showDefaultContextMenu ()	0.5
+flash.display::Stage/set showDefaultContextMenu ()	0
+flash.display::Stage/get focus ()	0.5
+flash.display::Stage/set focus ()	0.5
+flash.display::Stage/get colorCorrection ()	0.5
+flash.display::Stage/set colorCorrection ()	0
+flash.display::Stage/get colorCorrectionSupport ()	1
+flash.display::Stage/isFocusInaccessible ()	0
+flash.display::Stage/get stageFocusRect ()	0
+flash.display::Stage/set stageFocusRect ()	0
+flash.display::Stage/get quality ()	1
+flash.display::Stage/set quality ()	1
+flash.display::Stage/get displayState ()	0
+flash.display::Stage/set displayState ()	0
+flash.display::Stage/get fullScreenSourceRect ()	0
+flash.display::Stage/set fullScreenSourceRect ()	0
+flash.display::Stage/get mouseLock ()	0
+flash.display::Stage/set mouseLock ()	0
+flash.display::Stage/get stageVideos ()	0
+flash.display::Stage/get stage3Ds ()	0
+flash.display::Stage/get color ()	0
+flash.display::Stage/set color ()	0
+flash.display::Stage/get fullScreenWidth ()	0
+flash.display::Stage/get fullScreenHeight ()	0
+flash.display::Stage/get wmodeGPU ()	0
+flash.display::Stage/get softKeyboardRect ()	0
+flash.display::Stage/get allowsFullScreen ()	0
+flash.display::Stage/get allowsFullScreenInteractive ()	0
+flash.display::Stage/removeChildAt ()	0
+flash.display::Stage/swapChildrenAt ()	0
+flash.display::Stage/get contentsScaleFactor ()	0.5
+flash.display::Stage/requireOwnerPermissions ()	0
+flash.display::Stage/get displayContextInfo ()	0
+flash.accessibility::Accessibility$/get active ()	0
+flash.accessibility::Accessibility$/sendEvent ()	0
+flash.accessibility::Accessibility$/updateProperties ()	0
+adobe.utils::CustomActions$/installActions ()	0
+adobe.utils::CustomActions$/uninstallActions ()	0
+adobe.utils::CustomActions$/get actionsList ()	0
+adobe.utils::CustomActions$/getActions ()	0
+flash.ui::Mouse$/hide ()	0
+flash.ui::Mouse$/show ()	0
+flash.ui::Mouse$/get supportsCursor ()	0
+flash.ui::Mouse$/get cursor ()	0
+flash.ui::Mouse$/set cursor ()	0
+flash.ui::Mouse$/registerCursor ()	0
+flash.ui::Mouse$/unregisterCursor ()	0
+flash.ui::Mouse$/get supportsNativeCursor ()	0
+flash.xml::XMLParser/startParse ()	0
+flash.xml::XMLParser/getNext ()	0
+flash.display::ShaderJob/start ()	0
+flash.display::ShaderJob/cancel ()	0
+flash.display::ShaderJob/get shader ()	0
+flash.display::ShaderJob/set shader ()	0
+flash.display::ShaderJob/get target ()	0
+flash.display::ShaderJob/set target ()	0
+flash.display::ShaderJob/get width ()	0
+flash.display::ShaderJob/set width ()	0
+flash.display::ShaderJob/get height ()	0
+flash.display::ShaderJob/set height ()	0
+flash.display::ShaderJob/get progress ()	0
+flash.net::NetStream/ctor ()	0.5
+flash.net::NetStream/onResult ()	0
+flash.net::NetStream/dispose ()	0
+flash.net::NetStream/play ()	0.5
+flash.net::NetStream/play2 ()	0
+flash.net::NetStream/get info ()	0
+flash.net::NetStream/get multicastInfo ()	0
+flash.net::NetStream/invoke ()	0
+flash.net::NetStream/invokeWithArgsArry ()	0
+flash.net::NetStream/get soundTransform ()	0
+flash.net::NetStream/set soundTransform ()	0
+flash.net::NetStream/get checkPolicyFile ()	0
+flash.net::NetStream/set checkPolicyFile ()	0
+flash.net::NetStream/get client ()	0.5
+flash.net::NetStream/set client ()	0.5
+flash.net::NetStream/get objectEncoding ()	0
+flash.net::NetStream/get multicastPushNeighborLimit ()	0
+flash.net::NetStream/set multicastPushNeighborLimit ()	0
+flash.net::NetStream/get multicastWindowDuration ()	0
+flash.net::NetStream/set multicastWindowDuration ()	0
+flash.net::NetStream/get multicastRelayMarginDuration ()	0
+flash.net::NetStream/set multicastRelayMarginDuration ()	0
+flash.net::NetStream/get multicastAvailabilityUpdatePeriod ()	0
+flash.net::NetStream/set multicastAvailabilityUpdatePeriod ()	0
+flash.net::NetStream/get multicastFetchPeriod ()	0
+flash.net::NetStream/set multicastFetchPeriod ()	0
+flash.net::NetStream/get multicastAvailabilitySendToAll ()	0
+flash.net::NetStream/set multicastAvailabilitySendToAll ()	0
+flash.net::NetStream/get farID ()	0
+flash.net::NetStream/get nearNonce ()	0
+flash.net::NetStream/get farNonce ()	0
+flash.net::NetStream/get peerStreams ()	0
+flash.net::NetStream/get audioReliable ()	0
+flash.net::NetStream/set audioReliable ()	0
+flash.net::NetStream/get videoReliable ()	0
+flash.net::NetStream/set videoReliable ()	0
+flash.net::NetStream/get dataReliable ()	0
+flash.net::NetStream/set dataReliable ()	0
+flash.net::NetStream/get audioSampleAccess ()	0
+flash.net::NetStream/set audioSampleAccess ()	0
+flash.net::NetStream/get videoSampleAccess ()	0
+flash.net::NetStream/set videoSampleAccess ()	0
+flash.net::NetStream/appendBytes ()	0.5
+flash.net::NetStream/appendBytesAction ()	0.5
+flash.net::NetStream/get useHardwareDecoder ()	0
+flash.net::NetStream/set useHardwareDecoder ()	0
+flash.net::NetStream/get useJitterBuffer ()	0
+flash.net::NetStream/set useJitterBuffer ()	0
+flash.net::NetStream/get videoStreamSettings ()	0
+flash.net::NetStream/set videoStreamSettings ()	0
+flash.net::FileReference$/_ensureIsRootPlayer ()	0
+flash.net::FileReference/get creationDate ()	0
+flash.net::FileReference/get creator ()	0
+flash.net::FileReference/get modificationDate ()	0
+flash.net::FileReference/get name ()	0
+flash.net::FileReference/get size ()	0
+flash.net::FileReference/get type ()	0
+flash.net::FileReference/cancel ()	0
+flash.net::FileReference/download ()	0
+flash.net::FileReference/upload ()	0
+flash.net::FileReference/get data ()	0
+flash.net::FileReference/_load ()	0
+flash.net::FileReference/_save ()	0
+flash.net::FileReference/browse ()	0
+flash.geom::Transform/get matrix ()	0
+flash.geom::Transform/set matrix ()	0
+flash.geom::Transform/get colorTransform ()	0
+flash.geom::Transform/set colorTransform ()	0
+flash.geom::Transform/get concatenatedMatrix ()	0
+flash.geom::Transform/get concatenatedColorTransform ()	0
+flash.geom::Transform/get pixelBounds ()	0
+flash.geom::Transform/ctor ()	0
+flash.geom::Transform/get matrix3D ()	0
+flash.geom::Transform/set matrix3D ()	0
+flash.geom::Transform/getRelativeMatrix3D ()	0
+flash.geom::Transform/get perspectiveProjection ()	0
+flash.geom::Transform/set perspectiveProjection ()	0
+flash.filters::DropShadowFilter/get distance ()	1
+flash.filters::DropShadowFilter/set distance ()	1
+flash.filters::DropShadowFilter/get angle ()	1
+flash.filters::DropShadowFilter/set angle ()	1
+flash.filters::DropShadowFilter/get color ()	1
+flash.filters::DropShadowFilter/set color ()	1
+flash.filters::DropShadowFilter/get alpha ()	1
+flash.filters::DropShadowFilter/set alpha ()	1
+flash.filters::DropShadowFilter/get blurX ()	1
+flash.filters::DropShadowFilter/set blurX ()	1
+flash.filters::DropShadowFilter/get blurY ()	1
+flash.filters::DropShadowFilter/set blurY ()	1
+flash.filters::DropShadowFilter/get hideObject ()	1
+flash.filters::DropShadowFilter/set hideObject ()	1
+flash.filters::DropShadowFilter/get inner ()	1
+flash.filters::DropShadowFilter/set inner ()	1
+flash.filters::DropShadowFilter/get knockout ()	1
+flash.filters::DropShadowFilter/set knockout ()	1
+flash.filters::DropShadowFilter/get quality ()	1
+flash.filters::DropShadowFilter/set quality ()	1
+flash.filters::DropShadowFilter/get strength ()	1
+flash.filters::DropShadowFilter/set strength ()	1
+flash.system::ApplicationInstaller$/stringsDigest ()	0
+flash.system::ApplicationInstaller$/iconDigest ()	0
+flash.system::ApplicationInstaller/install ()	0
+flash.system::ApplicationInstaller/get isInstalled ()	0
+flash.filters::GradientGlowFilter/get angle ()	1
+flash.filters::GradientGlowFilter/set angle ()	1
+flash.filters::GradientGlowFilter/get alphas ()	1
+flash.filters::GradientGlowFilter/set alphas ()	1
+flash.filters::GradientGlowFilter/get blurX ()	1
+flash.filters::GradientGlowFilter/set blurX ()	1
+flash.filters::GradientGlowFilter/get blurY ()	1
+flash.filters::GradientGlowFilter/set blurY ()	1
+flash.filters::GradientGlowFilter/get colors ()	1
+flash.filters::GradientGlowFilter/set colors ()	1
+flash.filters::GradientGlowFilter/get distance ()	1
+flash.filters::GradientGlowFilter/set distance ()	1
+flash.filters::GradientGlowFilter/get knockout ()	1
+flash.filters::GradientGlowFilter/set knockout ()	1
+flash.filters::GradientGlowFilter/get quality ()	1
+flash.filters::GradientGlowFilter/set quality ()	1
+flash.filters::GradientGlowFilter/get ratios ()	1
+flash.filters::GradientGlowFilter/set ratios ()	1
+flash.filters::GradientGlowFilter/get strength ()	1
+flash.filters::GradientGlowFilter/set strength ()	1
+flash.filters::GradientGlowFilter/get type ()	1
+flash.filters::GradientGlowFilter/set type ()	1
+JSON$/parseCore ()	0
+JSON$/stringifySpecializedToString ()	0
+flash.system::SecurityDomain$/get currentDomain ()	1
+flash.system::SecurityDomain/ctor_impl ()	0
+flash.system::SecurityDomain/get domainID ()	0
+flash.net::DynamicPropertyOutput/writeDynamicProperty ()	0
+flash.media::SoundTransform/get volume ()	0
+flash.media::SoundTransform/set volume ()	0
+flash.media::SoundTransform/get leftToLeft ()	0
+flash.media::SoundTransform/set leftToLeft ()	0
+flash.media::SoundTransform/get leftToRight ()	0
+flash.media::SoundTransform/set leftToRight ()	0
+flash.media::SoundTransform/get rightToRight ()	0
+flash.media::SoundTransform/set rightToRight ()	0
+flash.media::SoundTransform/get rightToLeft ()	0
+flash.media::SoundTransform/set rightToLeft ()	0
+flash.net::LocalConnection/close ()	0
+flash.net::LocalConnection/connect ()	0
+flash.net::LocalConnection/get domain ()	0
+flash.net::LocalConnection/send ()	0
+flash.net::LocalConnection/get client ()	0
+flash.net::LocalConnection/set client ()	0
+flash.net::LocalConnection/get isPerUser ()	0
+flash.net::LocalConnection/set isPerUser ()	0
+flash.net::LocalConnection/allowDomain ()	0
+flash.net::LocalConnection/allowInsecureDomain ()	0
+flash.display3D::Program3D/upload ()	0
+flash.display3D::Program3D/dispose ()	0
+flash.events::TextEvent/copyNativeData ()	0
+flash.display::Sprite/get graphics ()	1
+flash.display::Sprite/get buttonMode ()	1
+flash.display::Sprite/set buttonMode ()	1
+flash.display::Sprite/startDrag ()	0
+flash.display::Sprite/stopDrag ()	0
+flash.display::Sprite/startTouchDrag ()	0
+flash.display::Sprite/stopTouchDrag ()	0
+flash.display::Sprite/get dropTarget ()	0
+flash.display::Sprite/constructChildren ()	1
+flash.display::Sprite/get hitArea ()	1
+flash.display::Sprite/set hitArea ()	1
+flash.display::Sprite/get useHandCursor ()	1
+flash.display::Sprite/set useHandCursor ()	1
+flash.display::Sprite/get soundTransform ()	0
+flash.display::Sprite/set soundTransform ()	0
+flash.net::Socket/internalGetSecurityErrorMessage ()	0
+flash.net::Socket/internalConnect ()	0
+flash.net::Socket/didFailureOccur ()	0
+flash.net::Socket/readBytes ()	0
+flash.net::Socket/writeBytes ()	0
+flash.net::Socket/writeBoolean ()	0
+flash.net::Socket/writeByte ()	0
+flash.net::Socket/writeShort ()	0
+flash.net::Socket/writeInt ()	0
+flash.net::Socket/writeUnsignedInt ()	0
+flash.net::Socket/writeFloat ()	0
+flash.net::Socket/writeDouble ()	0
+flash.net::Socket/writeMultiByte ()	0
+flash.net::Socket/writeUTF ()	0
+flash.net::Socket/writeUTFBytes ()	0
+flash.net::Socket/readBoolean ()	0
+flash.net::Socket/readByte ()	0
+flash.net::Socket/readUnsignedByte ()	0
+flash.net::Socket/readShort ()	0
+flash.net::Socket/readUnsignedShort ()	0
+flash.net::Socket/readInt ()	0
+flash.net::Socket/readUnsignedInt ()	0
+flash.net::Socket/readFloat ()	0
+flash.net::Socket/readDouble ()	0
+flash.net::Socket/readMultiByte ()	0
+flash.net::Socket/readUTF ()	0
+flash.net::Socket/readUTFBytes ()	0
+flash.net::Socket/get bytesAvailable ()	0
+flash.net::Socket/get connected ()	0
+flash.net::Socket/internalClose ()	0
+flash.net::Socket/flush ()	0
+flash.net::Socket/writeObject ()	0
+flash.net::Socket/readObject ()	0
+flash.net::Socket/get objectEncoding ()	0
+flash.net::Socket/set objectEncoding ()	0
+flash.net::Socket/get endian ()	0
+flash.net::Socket/set endian ()	0
+flash.net::Socket/get bytesPending ()	0
+flash.net::SecureSocket$/get isSupported ()	0
+flash.net::SecureSocket/get serverCertificate ()	0
+flash.net::SecureSocket/addBinaryChainBuildingCertificate ()	0
+flash.net::SecureSocket/getConnectionResultSet ()	0
+flash.net::SecureSocket/getConnectionResult ()	0
+flash.display::Shape/get graphics ()	1
+flash.media::SoundMixer$/stopAll ()	0
+flash.media::SoundMixer$/computeSpectrum ()	0
+flash.media::SoundMixer$/get bufferTime ()	0
+flash.media::SoundMixer$/set bufferTime ()	0
+flash.media::SoundMixer$/get soundTransform ()	0
+flash.media::SoundMixer$/set soundTransform ()	0
+flash.media::SoundMixer$/areSoundsInaccessible ()	0
+flash.media::SoundMixer$/get audioPlaybackMode ()	0
+flash.media::SoundMixer$/set audioPlaybackMode ()	0
+flash.media::SoundMixer$/get useSpeakerphoneForVoice ()	0
+flash.media::SoundMixer$/set useSpeakerphoneForVoice ()	0
+flash.filters::ConvolutionFilter/get matrix ()	0
+flash.filters::ConvolutionFilter/set matrix ()	0
+flash.filters::ConvolutionFilter/get matrixX ()	0
+flash.filters::ConvolutionFilter/set matrixX ()	0
+flash.filters::ConvolutionFilter/get matrixY ()	0
+flash.filters::ConvolutionFilter/set matrixY ()	0
+flash.filters::ConvolutionFilter/get divisor ()	0
+flash.filters::ConvolutionFilter/set divisor ()	0
+flash.filters::ConvolutionFilter/get bias ()	0
+flash.filters::ConvolutionFilter/set bias ()	0
+flash.filters::ConvolutionFilter/get preserveAlpha ()	0
+flash.filters::ConvolutionFilter/set preserveAlpha ()	0
+flash.filters::ConvolutionFilter/get clamp ()	0
+flash.filters::ConvolutionFilter/set clamp ()	0
+flash.filters::ConvolutionFilter/get color ()	0
+flash.filters::ConvolutionFilter/set color ()	0
+flash.filters::ConvolutionFilter/get alpha ()	0
+flash.filters::ConvolutionFilter/set alpha ()	0
+flash.display::ShaderData/_setByteCode ()	0
+flash.system::Worker$/get isSupported ()	0
+flash.system::Worker/createMessageChannel ()	0
+flash.system::Worker/internalSetSharedProperty ()	0
+flash.system::Worker/internalGetSharedProperty ()	0
+flash.system::Worker/get isPrimordial ()	0
+flash.system::Worker/internalGetState ()	0
+flash.system::Worker/listenerAdded ()	0
+flash.system::Worker/listenerRemoved ()	0
+flash.system::Worker/terminate ()	0
+flash.system::Worker/internalStart ()	0
+global/enterDebugger ()	0
+flash.ui::Multitouch$/get inputMode ()	0
+flash.ui::Multitouch$/set inputMode ()	0
+flash.ui::Multitouch$/get supportsTouchEvents ()	0
+flash.ui::Multitouch$/get supportsGestureEvents ()	0
+flash.ui::Multitouch$/get supportedGestures ()	0
+flash.ui::Multitouch$/get maxTouchPoints ()	0
+flash.ui::Multitouch$/get mapTouchToMouse ()	0
+flash.ui::Multitouch$/set mapTouchToMouse ()	0
+Date$/parse ()	0
+Date$/UTC ()	0
+Date/valueOf ()	0
+Date/_toString ()	0
+Date/_setTime ()	0
+Date/_get ()	0
+Date/getUTCFullYear ()	0
+Date/getUTCMonth ()	0
+Date/getUTCDate ()	0
+Date/getUTCDay ()	0
+Date/getUTCHours ()	0
+Date/getUTCMinutes ()	0
+Date/getUTCSeconds ()	0
+Date/getUTCMilliseconds ()	0
+Date/getFullYear ()	0
+Date/getMonth ()	0
+Date/getDate ()	0
+Date/getDay ()	0
+Date/getHours ()	0
+Date/getMinutes ()	0
+Date/getSeconds ()	0
+Date/getMilliseconds ()	0
+Date/getTimezoneOffset ()	0
+Date/getTime ()	0
+Date/_setFullYear ()	0
+Date/_setMonth ()	0
+Date/_setDate ()	0
+Date/_setHours ()	0
+Date/_setMinutes ()	0
+Date/_setSeconds ()	0
+Date/_setMilliseconds ()	0
+Date/_setUTCFullYear ()	0
+Date/_setUTCMonth ()	0
+Date/_setUTCDate ()	0
+Date/_setUTCHours ()	0
+Date/_setUTCMinutes ()	0
+Date/_setUTCSeconds ()	0
+Date/_setUTCMilliseconds ()	0
+flash.media::Camera$/_scanHardware ()	0
+flash.media::Camera$/get names ()	0
+flash.media::Camera$/get isSupported ()	0
+flash.media::Camera$/getCamera ()	0
+flash.media::Camera/get activityLevel ()	0
+flash.media::Camera/get bandwidth ()	0
+flash.media::Camera/get currentFPS ()	0
+flash.media::Camera/get fps ()	0
+flash.media::Camera/get height ()	0
+flash.media::Camera/get index ()	0
+flash.media::Camera/get keyFrameInterval ()	0
+flash.media::Camera/get loopback ()	0
+flash.media::Camera/get motionLevel ()	0
+flash.media::Camera/get motionTimeout ()	0
+flash.media::Camera/get muted ()	0
+flash.media::Camera/get name ()	0
+flash.media::Camera/get position ()	0
+flash.media::Camera/get quality ()	0
+flash.media::Camera/get width ()	0
+flash.media::Camera/setCursor ()	0
+flash.media::Camera/setKeyFrameInterval ()	0
+flash.media::Camera/setLoopback ()	0
+flash.media::Camera/setMode ()	0
+flash.media::Camera/setMotionLevel ()	0
+flash.media::Camera/setQuality ()	0
+flash.media::Camera/drawToBitmapData ()	0
+flash.media::Camera/copyToByteArray ()	0
+flash.media::Camera/copyToVector ()	0
+flash.net::NetGroup/ctor ()	0
+flash.net::NetGroup/invoke ()	0
+flash.net::NetGroup/get info ()	0
+flash.net::NetGroup/convertPeerIDToGroupAddress ()	0
+flash.net::NetGroup/get localCoverageFrom ()	0
+flash.net::NetGroup/get localCoverageTo ()	0
+global/getAliasName ()	0
+global/getDefinitionByName ()	0
+global/getTimer ()	0
+global/escapeMultiByte ()	0
+global/unescapeMultiByte ()	0
+global/trace ()	0
+global/watson ()	0
+flash.ui::GameInput$/getDeviceAt ()	0
+flash.ui::GameInput$/get numDevices ()	0
+flash.ui::GameInput$/get isSupported ()	0
+global/profile ()	0
+global/showRedrawRegions ()	0
+flash.display::BitmapData/ctor ()	0
+flash.display::BitmapData/clone ()	0
+flash.display::BitmapData/get width ()	0
+flash.display::BitmapData/get height ()	0
+flash.display::BitmapData/get transparent ()	0
+flash.display::BitmapData/getPixel ()	0
+flash.display::BitmapData/getPixel32 ()	0
+flash.display::BitmapData/setPixel ()	0
+flash.display::BitmapData/setPixel32 ()	0
+flash.display::BitmapData/applyFilter ()	0
+flash.display::BitmapData/colorTransform ()	0
+flash.display::BitmapData/compare ()	0
+flash.display::BitmapData/copyChannel ()	0
+flash.display::BitmapData/copyPixels ()	0
+flash.display::BitmapData/dispose ()	0
+flash.display::BitmapData/draw ()	0
+flash.display::BitmapData/drawWithQuality ()	0
+flash.display::BitmapData/fillRect ()	0
+flash.display::BitmapData/floodFill ()	0
+flash.display::BitmapData/generateFilterRect ()	0
+flash.display::BitmapData/getColorBoundsRect ()	0
+flash.display::BitmapData/getPixels ()	0
+flash.display::BitmapData/copyPixelsToByteArray ()	0
+flash.display::BitmapData/getVector ()	0
+flash.display::BitmapData/hitTest ()	0
+flash.display::BitmapData/merge ()	0
+flash.display::BitmapData/noise ()	0
+flash.display::BitmapData/paletteMap ()	0
+flash.display::BitmapData/perlinNoise ()	0
+flash.display::BitmapData/pixelDissolve ()	0
+flash.display::BitmapData/scroll ()	0
+flash.display::BitmapData/setPixels ()	0
+flash.display::BitmapData/setVector ()	0
+flash.display::BitmapData/threshold ()	0
+flash.display::BitmapData/lock ()	0
+flash.display::BitmapData/unlock ()	0
+flash.display::BitmapData/histogram ()	0
+flash.display::BitmapData/encode ()	0
+flash.events::TimerEvent/updateAfterEvent ()	0
+XML$/get ignoreComments ()	0
+XML$/set ignoreComments ()	0
+XML$/get ignoreProcessingInstructions ()	0
+XML$/set ignoreProcessingInstructions ()	0
+XML$/get ignoreWhitespace ()	0
+XML$/set ignoreWhitespace ()	0
+XML$/get prettyPrinting ()	0
+XML$/set prettyPrinting ()	0
+XML$/get prettyIndent ()	0
+XML$/set prettyIndent ()	0
+XML/toString ()	0
+XML/hasOwnProperty ()	0
+XML/propertyIsEnumerable ()	0
+XML/addNamespace ()	0
+XML/appendChild ()	0
+XML/attribute ()	0
+XML/attributes ()	0
+XML/child ()	0
+XML/childIndex ()	0
+XML/children ()	0
+XML/comments ()	0
+XML/contains ()	0
+XML/copy ()	0
+XML/descendants ()	0
+XML/elements ()	0
+XML/hasComplexContent ()	0
+XML/hasSimpleContent ()	0
+XML/inScopeNamespaces ()	0
+XML/insertChildAfter ()	0
+XML/insertChildBefore ()	0
+XML/localName ()	0
+XML/name ()	0
+XML/_namespace ()	0
+XML/namespaceDeclarations ()	0
+XML/nodeKind ()	0
+XML/normalize ()	0
+XML/parent ()	0
+XML/processingInstructions ()	0
+XML/prependChild ()	0
+XML/removeNamespace ()	0
+XML/replace ()	0
+XML/setChildren ()	0
+XML/setLocalName ()	0
+XML/setName ()	0
+XML/setNamespace ()	0
+XML/text ()	0
+XML/toXMLString ()	0
+XML/notification ()	0
+XML/setNotification ()	0
+XMLList/toString ()	0
+XMLList/hasOwnProperty ()	0
+XMLList/propertyIsEnumerable ()	0
+XMLList/attribute ()	0
+XMLList/attributes ()	0
+XMLList/child ()	0
+XMLList/children ()	0
+XMLList/comments ()	0
+XMLList/contains ()	0
+XMLList/copy ()	0
+XMLList/descendants ()	0
+XMLList/elements ()	0
+XMLList/hasComplexContent ()	0
+XMLList/hasSimpleContent ()	0
+XMLList/length ()	0
+XMLList/name ()	0
+XMLList/normalize ()	0
+XMLList/parent ()	0
+XMLList/processingInstructions ()	0
+XMLList/text ()	0
+XMLList/toXMLString ()	0
+XMLList/addNamespace ()	0
+XMLList/appendChild ()	0
+XMLList/childIndex ()	0
+XMLList/inScopeNamespaces ()	0
+XMLList/insertChildAfter ()	0
+XMLList/insertChildBefore ()	0
+XMLList/nodeKind ()	0
+XMLList/_namespace ()	0
+XMLList/localName ()	0
+XMLList/namespaceDeclarations ()	0
+XMLList/prependChild ()	0
+XMLList/removeNamespace ()	0
+XMLList/replace ()	0
+XMLList/setChildren ()	0
+XMLList/setLocalName ()	0
+XMLList/setName ()	0
+XMLList/setNamespace ()	0
+QName/get localName ()	1
+QName/get uri ()	1
+Math$/_min ()	1
+Math$/_max ()	1
+Math$/abs ()	1
+Math$/acos ()	1
+Math$/asin ()	1
+Math$/atan ()	1
+Math$/ceil ()	1
+Math$/cos ()	1
+Math$/exp ()	1
+Math$/floor ()	1
+Math$/log ()	1
+Math$/round ()	1
+Math$/sin ()	1
+Math$/sqrt ()	1
+Math$/tan ()	1
+Math$/atan2 ()	1
+Math$/pow ()	1
+Math$/max ()	1
+Math$/min ()	1
+Math$/random ()	1
+flash.display::NativeMenuItem/get enabled ()	0.5
+flash.display::NativeMenuItem/set enabled ()	0.5
+flash.net::FileFilter/get description ()	0
+flash.net::FileFilter/set description ()	0
+flash.net::FileFilter/get extension ()	0
+flash.net::FileFilter/set extension ()	0
+flash.net::FileFilter/get macType ()	0
+flash.net::FileFilter/set macType ()	0
+flash.text::Font$/enumerateFonts ()	0
+flash.text::Font$/registerFont ()	0
+flash.text::Font/get fontName ()	0
+flash.text::Font/get fontStyle ()	0
+flash.text::Font/get fontType ()	0
+flash.text::Font/hasGlyphs ()	0
+flash.filters::BevelFilter/get distance ()	0
+flash.filters::BevelFilter/set distance ()	0
+flash.filters::BevelFilter/get angle ()	0
+flash.filters::BevelFilter/set angle ()	0
+flash.filters::BevelFilter/get highlightColor ()	0
+flash.filters::BevelFilter/set highlightColor ()	0
+flash.filters::BevelFilter/get highlightAlpha ()	0
+flash.filters::BevelFilter/set highlightAlpha ()	0
+flash.filters::BevelFilter/get shadowColor ()	0
+flash.filters::BevelFilter/set shadowColor ()	0
+flash.filters::BevelFilter/get shadowAlpha ()	0
+flash.filters::BevelFilter/set shadowAlpha ()	0
+flash.filters::BevelFilter/get blurX ()	0
+flash.filters::BevelFilter/set blurX ()	0
+flash.filters::BevelFilter/get blurY ()	0
+flash.filters::BevelFilter/set blurY ()	0
+flash.filters::BevelFilter/get knockout ()	0
+flash.filters::BevelFilter/set knockout ()	0
+flash.filters::BevelFilter/get quality ()	0
+flash.filters::BevelFilter/set quality ()	0
+flash.filters::BevelFilter/get strength ()	0
+flash.filters::BevelFilter/set strength ()	0
+flash.filters::BevelFilter/get type ()	0
+flash.filters::BevelFilter/set type ()	0
+flash.net::SharedObject$/deleteAll ()	0
+flash.net::SharedObject$/getDiskUsage ()	0
+flash.net::SharedObject$/getLocal ()	1
+flash.net::SharedObject$/getRemote ()	0
+flash.net::SharedObject$/get defaultObjectEncoding ()	1
+flash.net::SharedObject$/set defaultObjectEncoding ()	1
+flash.net::SharedObject/get data ()	1
+flash.net::SharedObject/get objectEncoding ()	0
+flash.net::SharedObject/set objectEncoding ()	0
+flash.net::SharedObject/get client ()	0
+flash.net::SharedObject/set client ()	0
+flash.net::SharedObject/setDirty ()	0
+flash.net::SharedObject/invoke ()	0
+flash.net::SharedObject/invokeWithArgsArray ()	0
+flash.display::ShaderParameter/get value ()	0
+flash.display::ShaderParameter/set value ()	0
+flash.display::ShaderParameter/get type ()	0
+flash.display::ShaderParameter/get index ()	0
+flash.automation::ActionGenerator/generateActions ()	0
+flash.text::TextFormat/get align ()	1
+flash.text::TextFormat/set align ()	1
+flash.text::TextFormat/get blockIndent ()	1
+flash.text::TextFormat/set blockIndent ()	1
+flash.text::TextFormat/get bold ()	1
+flash.text::TextFormat/set bold ()	1
+flash.text::TextFormat/get bullet ()	1
+flash.text::TextFormat/set bullet ()	1
+flash.text::TextFormat/get color ()	1
+flash.text::TextFormat/set color ()	1
+flash.text::TextFormat/get display ()	1
+flash.text::TextFormat/set display ()	1
+flash.text::TextFormat/get font ()	1
+flash.text::TextFormat/set font ()	1
+flash.text::TextFormat/get indent ()	1
+flash.text::TextFormat/set indent ()	1
+flash.text::TextFormat/get italic ()	1
+flash.text::TextFormat/set italic ()	1
+flash.text::TextFormat/get kerning ()	1
+flash.text::TextFormat/set kerning ()	1
+flash.text::TextFormat/get leading ()	1
+flash.text::TextFormat/set leading ()	1
+flash.text::TextFormat/get leftMargin ()	1
+flash.text::TextFormat/set leftMargin ()	1
+flash.text::TextFormat/get letterSpacing ()	1
+flash.text::TextFormat/set letterSpacing ()	1
+flash.text::TextFormat/get rightMargin ()	1
+flash.text::TextFormat/set rightMargin ()	1
+flash.text::TextFormat/get size ()	1
+flash.text::TextFormat/set size ()	1
+flash.text::TextFormat/get tabStops ()	1
+flash.text::TextFormat/set tabStops ()	1
+flash.text::TextFormat/get target ()	1
+flash.text::TextFormat/set target ()	1
+flash.text::TextFormat/get underline ()	1
+flash.text::TextFormat/set underline ()	1
+flash.text::TextFormat/get url ()	1
+flash.text::TextFormat/set url ()	1
+flash.system::DomainMemoryWithStage3D/forceSoftwareRenderMode ()	0
+flash.system::DomainMemoryWithStage3D/showWatermark ()	0
+flash.system::MessageChannel/send ()	0
+flash.system::MessageChannel/get messageAvailable ()	0
+flash.system::MessageChannel/receive ()	0
+flash.system::MessageChannel/close ()	0
+flash.system::MessageChannel/get state ()	0
+flash.system::MessageChannel/internalRemoveEventListener ()	0
+flash.system::MessageChannel/internalAddEventListener ()	0
+RegExp/get source ()	0
+RegExp/get global ()	0
+RegExp/get ignoreCase ()	0
+RegExp/get multiline ()	0
+RegExp/get lastIndex ()	0
+RegExp/set lastIndex ()	0
+RegExp/get dotall ()	0
+RegExp/get extended ()	0
+RegExp/exec ()	0
+flash.display::LoaderInfo$/getLoaderInfoByDefinition ()	0
+flash.display::LoaderInfo/get loaderURL ()	1
+flash.display::LoaderInfo/get url ()	1
+flash.display::LoaderInfo/get isURLInaccessible ()	1
+flash.display::LoaderInfo/get bytesLoaded ()	1
+flash.display::LoaderInfo/get bytesTotal ()	1
+flash.display::LoaderInfo/get applicationDomain ()	1
+flash.display::LoaderInfo/get swfVersion ()	1
+flash.display::LoaderInfo/get actionScriptVersion ()	1
+flash.display::LoaderInfo/get frameRate ()	1
+flash.display::LoaderInfo/get width ()	1
+flash.display::LoaderInfo/get height ()	1
+flash.display::LoaderInfo/get contentType ()	1
+flash.display::LoaderInfo/get sharedEvents ()	1
+flash.display::LoaderInfo/get parentSandboxBridge ()	1
+flash.display::LoaderInfo/set parentSandboxBridge ()	1
+flash.display::LoaderInfo/get childSandboxBridge ()	1
+flash.display::LoaderInfo/set childSandboxBridge ()	1
+flash.display::LoaderInfo/get sameDomain ()	1
+flash.display::LoaderInfo/get childAllowsParent ()	1
+flash.display::LoaderInfo/get parentAllowsChild ()	1
+flash.display::LoaderInfo/get loader ()	1
+flash.display::LoaderInfo/get content ()	1
+flash.display::LoaderInfo/get bytes ()	1
+flash.display::LoaderInfo/_getArgs ()	1
+flash.display::LoaderInfo/_getUncaughtErrorEvents ()	0
+flash.display::LoaderInfo/_setUncaughtErrorEvents ()	0
+flash.display::Shader/get data ()	0
+flash.display::Shader/set data ()	0
+flash.display::Shader/get precisionHint ()	0
+flash.display::Shader/set precisionHint ()	0
+flash.text.engine::TextLineMirrorRegion/get textLine ()	0
+flash.text.engine::TextLineMirrorRegion/get nextRegion ()	0
+flash.text.engine::TextLineMirrorRegion/get previousRegion ()	0
+flash.text.engine::TextLineMirrorRegion/get mirror ()	0
+flash.text.engine::TextLineMirrorRegion/get element ()	0
+flash.text.engine::TextLineMirrorRegion/get bounds ()	0
+flash.display3D::IndexBuffer3D/uploadFromVector ()	0
+flash.display3D::IndexBuffer3D/uploadFromByteArray ()	0
+flash.display3D::IndexBuffer3D/dispose ()	0
+flash.text.engine::TextLine/get textBlock ()	0
+flash.text.engine::TextLine/get hasGraphicElement ()	0
+flash.text.engine::TextLine/get hasTabs ()	0
+flash.text.engine::TextLine/get nextLine ()	0
+flash.text.engine::TextLine/get previousLine ()	0
+flash.text.engine::TextLine/get ascent ()	0
+flash.text.engine::TextLine/get descent ()	0
+flash.text.engine::TextLine/get textHeight ()	0
+flash.text.engine::TextLine/get textWidth ()	0
+flash.text.engine::TextLine/get totalAscent ()	0
+flash.text.engine::TextLine/get totalDescent ()	0
+flash.text.engine::TextLine/get totalHeight ()	0
+flash.text.engine::TextLine/get textBlockBeginIndex ()	0
+flash.text.engine::TextLine/get rawTextLength ()	0
+flash.text.engine::TextLine/get specifiedWidth ()	0
+flash.text.engine::TextLine/get unjustifiedTextWidth ()	0
+flash.text.engine::TextLine/get validity ()	0
+flash.text.engine::TextLine/set validity ()	0
+flash.text.engine::TextLine/get atomCount ()	0
+flash.text.engine::TextLine/get mirrorRegions ()	0
+flash.text.engine::TextLine/getAtomIndexAtPoint ()	0
+flash.text.engine::TextLine/getAtomIndexAtCharIndex ()	0
+flash.text.engine::TextLine/getAtomBounds ()	0
+flash.text.engine::TextLine/getAtomBidiLevel ()	0
+flash.text.engine::TextLine/getAtomTextRotation ()	0
+flash.text.engine::TextLine/getAtomTextBlockBeginIndex ()	0
+flash.text.engine::TextLine/getAtomTextBlockEndIndex ()	0
+flash.text.engine::TextLine/getAtomCenter ()	0
+flash.text.engine::TextLine/getAtomWordBoundaryOnLeft ()	0
+flash.text.engine::TextLine/getAtomGraphic ()	0
+flash.text.engine::TextLine/getBaselinePosition ()	0
+flash.text.engine::TextLine/dump ()	0
+flash.display3D::VertexBuffer3D/uploadFromVector ()	0
+flash.display3D::VertexBuffer3D/uploadFromByteArray ()	0
+flash.display3D::VertexBuffer3D/dispose ()	0
+flash.utils::ByteArray$/get defaultObjectEncoding ()	0
+flash.utils::ByteArray$/set defaultObjectEncoding ()	0
+flash.utils::ByteArray/readBytes ()	1
+flash.utils::ByteArray/writeBytes ()	1
+flash.utils::ByteArray/writeBoolean ()	1
+flash.utils::ByteArray/writeByte ()	1
+flash.utils::ByteArray/writeShort ()	1
+flash.utils::ByteArray/writeInt ()	1
+flash.utils::ByteArray/writeUnsignedInt ()	1
+flash.utils::ByteArray/writeFloat ()	1
+flash.utils::ByteArray/writeDouble ()	1
+flash.utils::ByteArray/writeMultiByte ()	1
+flash.utils::ByteArray/writeUTF ()	1
+flash.utils::ByteArray/writeUTFBytes ()	1
+flash.utils::ByteArray/readBoolean ()	1
+flash.utils::ByteArray/readByte ()	1
+flash.utils::ByteArray/readUnsignedByte ()	1
+flash.utils::ByteArray/readShort ()	1
+flash.utils::ByteArray/readUnsignedShort ()	1
+flash.utils::ByteArray/readInt ()	1
+flash.utils::ByteArray/readUnsignedInt ()	1
+flash.utils::ByteArray/readFloat ()	1
+flash.utils::ByteArray/readDouble ()	1
+flash.utils::ByteArray/readMultiByte ()	1
+flash.utils::ByteArray/readUTF ()	1
+flash.utils::ByteArray/readUTFBytes ()	1
+flash.utils::ByteArray/get length ()	1
+flash.utils::ByteArray/set length ()	1
+flash.utils::ByteArray/writeObject ()	1
+flash.utils::ByteArray/readObject ()	1
+flash.utils::ByteArray/_compress ()	0
+flash.utils::ByteArray/_uncompress ()	0
+flash.utils::ByteArray/_toString ()	1
+flash.utils::ByteArray/get bytesAvailable ()	1
+flash.utils::ByteArray/get position ()	1
+flash.utils::ByteArray/set position ()	1
+flash.utils::ByteArray/get objectEncoding ()	1
+flash.utils::ByteArray/set objectEncoding ()	1
+flash.utils::ByteArray/get endian ()	1
+flash.utils::ByteArray/set endian ()	1
+flash.utils::ByteArray/clear ()	1
+flash.utils::ByteArray/atomicCompareAndSwapIntAt ()	0
+flash.utils::ByteArray/atomicCompareAndSwapLength ()	0
+flash.utils::ByteArray/get shareable ()	0
+flash.utils::ByteArray/set shareable ()	0
+flash.display::FrameLabel/ctor ()	1
+flash.display::FrameLabel/get name ()	1
+flash.display::FrameLabel/get frame ()	1
+adobe.utils::ProductManager/ctor ()	0
+adobe.utils::ProductManager/get running ()	0
+adobe.utils::ProductManager/get installed ()	0
+adobe.utils::ProductManager/launch ()	0
+adobe.utils::ProductManager/get installedVersion ()	0
+adobe.utils::ProductManager/doDownload ()	0
+adobe.utils::ProductManager/doSelfUpgrade ()	0
+flash.net::ObjectEncoding$/get dynamicPropertyWriter ()	0
+flash.net::ObjectEncoding$/set dynamicPropertyWriter ()	0
+flash.geom::Matrix3D$/interpolate ()	0
+flash.geom::Matrix3D/ctor ()	0
+flash.geom::Matrix3D/clone ()	0
+flash.geom::Matrix3D/copyToMatrix3D ()	0
+flash.geom::Matrix3D/get rawData ()	0
+flash.geom::Matrix3D/set rawData ()	0
+flash.geom::Matrix3D/append ()	0
+flash.geom::Matrix3D/prepend ()	0
+flash.geom::Matrix3D/invert ()	0
+flash.geom::Matrix3D/identity ()	0
+flash.geom::Matrix3D/decompose ()	0
+flash.geom::Matrix3D/recompose ()	0
+flash.geom::Matrix3D/get position ()	0
+flash.geom::Matrix3D/set position ()	0
+flash.geom::Matrix3D/appendTranslation ()	0
+flash.geom::Matrix3D/appendRotation ()	0
+flash.geom::Matrix3D/appendScale ()	0
+flash.geom::Matrix3D/prependTranslation ()	0
+flash.geom::Matrix3D/prependRotation ()	0
+flash.geom::Matrix3D/prependScale ()	0
+flash.geom::Matrix3D/transformVector ()	0
+flash.geom::Matrix3D/deltaTransformVector ()	0
+flash.geom::Matrix3D/transformVectors ()	0
+flash.geom::Matrix3D/get determinant ()	0
+flash.geom::Matrix3D/transpose ()	0
+flash.geom::Matrix3D/pointAt ()	0
+flash.geom::Matrix3D/interpolateTo ()	0
+flash.geom::Matrix3D/copyFrom ()	0
+flash.geom::Matrix3D/copyRawDataTo ()	0
+flash.geom::Matrix3D/copyRawDataFrom ()	0
+flash.geom::Matrix3D/copyRowTo ()	0
+flash.geom::Matrix3D/copyColumnTo ()	0
+flash.geom::Matrix3D/copyRowFrom ()	0
+flash.geom::Matrix3D/copyColumnFrom ()	0
+flash.net::NetConnection$/get defaultObjectEncoding ()	0
+flash.net::NetConnection$/set defaultObjectEncoding ()	0
+flash.net::NetConnection/get connected ()	1
+flash.net::NetConnection/get uri ()	1
+flash.net::NetConnection/connect ()	0.5
+flash.net::NetConnection/get client ()	1
+flash.net::NetConnection/set client ()	1
+flash.net::NetConnection/get objectEncoding ()	0
+flash.net::NetConnection/set objectEncoding ()	0
+flash.net::NetConnection/get proxyType ()	0
+flash.net::NetConnection/set proxyType ()	0
+flash.net::NetConnection/get connectedProxyType ()	0
+flash.net::NetConnection/get usingTLS ()	0.5
+flash.net::NetConnection/get protocol ()	0
+flash.net::NetConnection/get maxPeerConnections ()	0
+flash.net::NetConnection/set maxPeerConnections ()	0
+flash.net::NetConnection/get nearID ()	0
+flash.net::NetConnection/get farID ()	0
+flash.net::NetConnection/get nearNonce ()	0
+flash.net::NetConnection/get farNonce ()	0
+flash.net::NetConnection/get unconnectedPeerStreams ()	0
+flash.net::NetConnection/invoke ()	0
+flash.net::NetConnection/invokeWithArgsArray ()	0
+flash.text::TextField$/isFontCompatible ()	0
+flash.text::TextField/get alwaysShowSelection ()	0
+flash.text::TextField/set alwaysShowSelection ()	0
+flash.text::TextField/get antiAliasType ()	0
+flash.text::TextField/set antiAliasType ()	0
+flash.text::TextField/get autoSize ()	0.5
+flash.text::TextField/set autoSize ()	0.5
+flash.text::TextField/get background ()	0
+flash.text::TextField/set background ()	0
+flash.text::TextField/get backgroundColor ()	0
+flash.text::TextField/set backgroundColor ()	0
+flash.text::TextField/get border ()	0
+flash.text::TextField/set border ()	0
+flash.text::TextField/get borderColor ()	0
+flash.text::TextField/set borderColor ()	0
+flash.text::TextField/get bottomScrollV ()	0
+flash.text::TextField/get caretIndex ()	0
+flash.text::TextField/get condenseWhite ()	0
+flash.text::TextField/set condenseWhite ()	0
+flash.text::TextField/get defaultTextFormat ()	1
+flash.text::TextField/set defaultTextFormat ()	1
+flash.text::TextField/get embedFonts ()	0
+flash.text::TextField/set embedFonts ()	0
+flash.text::TextField/get gridFitType ()	0
+flash.text::TextField/set gridFitType ()	0
+flash.text::TextField/get htmlText ()	0
+flash.text::TextField/set htmlText ()	0
+flash.text::TextField/get length ()	0
+flash.text::TextField/get textInteractionMode ()	0
+flash.text::TextField/get maxChars ()	0
+flash.text::TextField/set maxChars ()	0
+flash.text::TextField/get maxScrollH ()	0
+flash.text::TextField/get maxScrollV ()	0
+flash.text::TextField/get mouseWheelEnabled ()	0
+flash.text::TextField/set mouseWheelEnabled ()	0
+flash.text::TextField/get multiline ()	0.5
+flash.text::TextField/set multiline ()	0.5
+flash.text::TextField/get numLines ()	0
+flash.text::TextField/get displayAsPassword ()	0
+flash.text::TextField/set displayAsPassword ()	0
+flash.text::TextField/get restrict ()	0
+flash.text::TextField/set restrict ()	0
+flash.text::TextField/get scrollH ()	0
+flash.text::TextField/set scrollH ()	0
+flash.text::TextField/get scrollV ()	0
+flash.text::TextField/set scrollV ()	0
+flash.text::TextField/get selectable ()	0
+flash.text::TextField/set selectable ()	0
+flash.text::TextField/get selectionBeginIndex ()	0
+flash.text::TextField/get selectionEndIndex ()	0
+flash.text::TextField/get sharpness ()	0
+flash.text::TextField/set sharpness ()	0
+flash.text::TextField/get styleSheet ()	0
+flash.text::TextField/set styleSheet ()	0
+flash.text::TextField/get text ()	0
+flash.text::TextField/set text ()	0
+flash.text::TextField/get textColor ()	0.5
+flash.text::TextField/set textColor ()	0.5
+flash.text::TextField/get textHeight ()	1
+flash.text::TextField/get textWidth ()	1
+flash.text::TextField/get thickness ()	0
+flash.text::TextField/set thickness ()	0
+flash.text::TextField/get type ()	0
+flash.text::TextField/set type ()	0
+flash.text::TextField/get wordWrap ()	0
+flash.text::TextField/set wordWrap ()	0
+flash.text::TextField/getCharBoundaries ()	0
+flash.text::TextField/getCharIndexAtPoint ()	0
+flash.text::TextField/getCharIndexNearestPoint ()	0
+flash.text::TextField/getFirstCharInParagraph ()	0
+flash.text::TextField/getLineIndexAtPoint ()	0
+flash.text::TextField/getLineIndexOfChar ()	0
+flash.text::TextField/getLineLength ()	0
+flash.text::TextField/getLineMetrics ()	0
+flash.text::TextField/getLineOffset ()	0
+flash.text::TextField/getLineText ()	0
+flash.text::TextField/getParagraphLength ()	0
+flash.text::TextField/getTextFormat ()	0
+flash.text::TextField/getTextRuns ()	0
+flash.text::TextField/getRawText ()	0
+flash.text::TextField/replaceSelectedText ()	0
+flash.text::TextField/replaceText ()	1
+flash.text::TextField/setSelection ()	0
+flash.text::TextField/setTextFormat ()	1
+flash.text::TextField/getImageReference ()	0
+flash.text::TextField/get useRichTextClipboard ()	0
+flash.text::TextField/set useRichTextClipboard ()	0
+flash.events::GestureEvent/get localX ()	0
+flash.events::GestureEvent/set localX ()	0
+flash.events::GestureEvent/get localY ()	0
+flash.events::GestureEvent/set localY ()	0
+flash.events::GestureEvent/updateAfterEvent ()	0
+flash.events::GestureEvent/getStageX ()	0
+flash.events::GestureEvent/getStageY ()	0
+flash.events::PressAndTapGestureEvent/get tapLocalX ()	0
+flash.events::PressAndTapGestureEvent/set tapLocalX ()	0
+flash.events::PressAndTapGestureEvent/get tapLocalY ()	0
+flash.events::PressAndTapGestureEvent/set tapLocalY ()	0
+flash.events::PressAndTapGestureEvent/getTapStageX ()	0
+flash.events::PressAndTapGestureEvent/getTapStageY ()	0
+flash.media::SoundChannel/get position ()	0
+flash.media::SoundChannel/get soundTransform ()	0
+flash.media::SoundChannel/set soundTransform ()	0
+flash.media::SoundChannel/stop ()	0
+flash.media::SoundChannel/get leftPeak ()	0
+flash.media::SoundChannel/get rightPeak ()	0
+flash.text.engine::EastAsianJustifier/get justificationStyle ()	0
+flash.text.engine::EastAsianJustifier/set justificationStyle ()	0
+flash.text.engine::EastAsianJustifier/get composeTrailingIdeographicSpaces ()	0
+flash.text.engine::EastAsianJustifier/set composeTrailingIdeographicSpaces ()	0
+flash.net.drm::DRMContentData/get FMRMSURL ()	0
+flash.net.drm::DRMContentData/get authenticationMethod ()	0
+flash.net.drm::DRMContentData/getLicenseIDInner ()	0
+flash.net.drm::DRMContentData/getDomainInner ()	0
+flash.net.drm::DRMContentData/setRawMetadataInner ()	0
+flash.net.drm::DRMContentData/errorCodeToThrow ()	0
+flash.net.drm::DRMContentData/populateVoucherAccessInfo ()	0
+flash.utils::Dictionary/init ()	0
+flash.text.engine::GroupElement/get elementCount ()	0
+flash.text.engine::GroupElement/getElementAt ()	0
+flash.text.engine::GroupElement/setElements ()	0
+flash.text.engine::GroupElement/groupElements ()	0
+flash.text.engine::GroupElement/ungroupElements ()	0
+flash.text.engine::GroupElement/mergeTextElements ()	0
+flash.text.engine::GroupElement/splitTextElement ()	0
+flash.text.engine::GroupElement/replaceElements ()	0
+flash.text.engine::GroupElement/getElementAtCharIndex ()	0
+flash.text.engine::ElementFormat/get alignmentBaseline ()	0
+flash.text.engine::ElementFormat/set alignmentBaseline ()	0
+flash.text.engine::ElementFormat/get alpha ()	0
+flash.text.engine::ElementFormat/set alpha ()	0
+flash.text.engine::ElementFormat/get baselineShift ()	0
+flash.text.engine::ElementFormat/set baselineShift ()	0
+flash.text.engine::ElementFormat/get breakOpportunity ()	0
+flash.text.engine::ElementFormat/set breakOpportunity ()	0
+flash.text.engine::ElementFormat/get color ()	0
+flash.text.engine::ElementFormat/set color ()	0
+flash.text.engine::ElementFormat/get dominantBaseline ()	0
+flash.text.engine::ElementFormat/set dominantBaseline ()	0
+flash.text.engine::ElementFormat/get fontDescription ()	0
+flash.text.engine::ElementFormat/set fontDescription ()	0
+flash.text.engine::ElementFormat/get digitCase ()	0
+flash.text.engine::ElementFormat/set digitCase ()	0
+flash.text.engine::ElementFormat/get digitWidth ()	0
+flash.text.engine::ElementFormat/set digitWidth ()	0
+flash.text.engine::ElementFormat/get ligatureLevel ()	0
+flash.text.engine::ElementFormat/set ligatureLevel ()	0
+flash.text.engine::ElementFormat/get fontSize ()	0
+flash.text.engine::ElementFormat/set fontSize ()	0
+flash.text.engine::ElementFormat/get kerning ()	0
+flash.text.engine::ElementFormat/set kerning ()	0
+flash.text.engine::ElementFormat/get locale ()	0
+flash.text.engine::ElementFormat/set locale ()	0
+flash.text.engine::ElementFormat/get textRotation ()	0
+flash.text.engine::ElementFormat/set textRotation ()	0
+flash.text.engine::ElementFormat/get trackingRight ()	0
+flash.text.engine::ElementFormat/set trackingRight ()	0
+flash.text.engine::ElementFormat/get trackingLeft ()	0
+flash.text.engine::ElementFormat/set trackingLeft ()	0
+flash.text.engine::ElementFormat/get typographicCase ()	0
+flash.text.engine::ElementFormat/set typographicCase ()	0
+flash.text.engine::ElementFormat/get locked ()	0
+flash.text.engine::ElementFormat/set locked ()	0
+flash.text.engine::ElementFormat/getFontMetrics ()	0
+flash.filters::DisplacementMapFilter/get mapBitmap ()	0
+flash.filters::DisplacementMapFilter/set mapBitmap ()	0
+flash.filters::DisplacementMapFilter/get mapPoint ()	0
+flash.filters::DisplacementMapFilter/set mapPoint ()	0
+flash.filters::DisplacementMapFilter/get componentX ()	0
+flash.filters::DisplacementMapFilter/set componentX ()	0
+flash.filters::DisplacementMapFilter/get componentY ()	0
+flash.filters::DisplacementMapFilter/set componentY ()	0
+flash.filters::DisplacementMapFilter/get scaleX ()	0
+flash.filters::DisplacementMapFilter/set scaleX ()	0
+flash.filters::DisplacementMapFilter/get scaleY ()	0
+flash.filters::DisplacementMapFilter/set scaleY ()	0
+flash.filters::DisplacementMapFilter/get mode ()	0
+flash.filters::DisplacementMapFilter/set mode ()	0
+flash.filters::DisplacementMapFilter/get color ()	0
+flash.filters::DisplacementMapFilter/set color ()	0
+flash.filters::DisplacementMapFilter/get alpha ()	0
+flash.filters::DisplacementMapFilter/set alpha ()	0
+flash.globalization::CurrencyParseResult/ctor ()	0
+flash.globalization::CurrencyParseResult/get value ()	0
+flash.globalization::CurrencyParseResult/get currencyString ()	0
+flash.display3D::Context3D/get driverInfo ()	0
+flash.display3D::Context3D/dispose ()	0
+flash.display3D::Context3D/get enableErrorChecking ()	0
+flash.display3D::Context3D/set enableErrorChecking ()	0
+flash.display3D::Context3D/configureBackBuffer ()	0
+flash.display3D::Context3D/clear ()	0
+flash.display3D::Context3D/drawTriangles ()	0
+flash.display3D::Context3D/present ()	0
+flash.display3D::Context3D/setProgram ()	0
+flash.display3D::Context3D/setProgramConstantsFromVector ()	0
+flash.display3D::Context3D/setProgramConstantsFromMatrix ()	0
+flash.display3D::Context3D/setProgramConstantsFromByteArray ()	0
+flash.display3D::Context3D/setVertexBufferAt ()	0
+flash.display3D::Context3D/setBlendFactors ()	0
+flash.display3D::Context3D/setColorMask ()	0
+flash.display3D::Context3D/setDepthTest ()	0
+flash.display3D::Context3D/setRenderToTextureInternal ()	0
+flash.display3D::Context3D/setCulling ()	0
+flash.display3D::Context3D/setStencilActions ()	0
+flash.display3D::Context3D/setStencilReferenceValue ()	0
+flash.display3D::Context3D/setScissorRectangle ()	0
+flash.display3D::Context3D/createVertexBuffer ()	0
+flash.display3D::Context3D/createIndexBuffer ()	0
+flash.display3D::Context3D/createTexture ()	0
+flash.display3D::Context3D/createCubeTexture ()	0
+flash.display3D::Context3D/createProgram ()	0
+flash.display3D::Context3D/drawToBitmapData ()	0
+flash.display3D::Context3D/setTextureInternal ()	0
+flash.display3D::Context3D/setCubeTextureInternal ()	0
+flash.printing::PrintJob$/_checkSupported ()	0
+flash.printing::PrintJob/invoke ()	0
+flash.printing::PrintJob/_invoke ()	0
+flash.net::GroupSpecifier$/calcSHA256Digest ()	0
+flash.net::GroupSpecifier$/GetCryptoRandomString ()	0
+flash.globalization::Collator$/getAvailableLocaleIDNames ()	0
+flash.globalization::Collator/ctor ()	0
+flash.globalization::Collator/get ignoreCase ()	0
+flash.globalization::Collator/set ignoreCase ()	0
+flash.globalization::Collator/get ignoreDiacritics ()	0
+flash.globalization::Collator/set ignoreDiacritics ()	0
+flash.globalization::Collator/get ignoreKanaType ()	0
+flash.globalization::Collator/set ignoreKanaType ()	0
+flash.globalization::Collator/get ignoreSymbols ()	0
+flash.globalization::Collator/set ignoreSymbols ()	0
+flash.globalization::Collator/get ignoreCharacterWidth ()	0
+flash.globalization::Collator/set ignoreCharacterWidth ()	0
+flash.globalization::Collator/get numericComparison ()	0
+flash.globalization::Collator/set numericComparison ()	0
+flash.globalization::Collator/compare ()	0
+flash.globalization::Collator/equals ()	0
+flash.globalization::Collator/get lastOperationStatus ()	0
+flash.globalization::Collator/get actualLocaleIDName ()	0
+flash.globalization::Collator/get requestedLocaleIDName ()	0
+flash.display::Graphics/clear ()	1
+flash.display::Graphics/beginFill ()	1
+flash.display::Graphics/beginGradientFill ()	1
+flash.display::Graphics/beginBitmapFill ()	1
+flash.display::Graphics/beginShaderFill ()	0
+flash.display::Graphics/lineGradientStyle ()	0
+flash.display::Graphics/lineStyle ()	1
+flash.display::Graphics/drawRect ()	1
+flash.display::Graphics/drawRoundRect ()	1
+flash.display::Graphics/drawRoundRectComplex ()	1
+flash.display::Graphics/moveTo ()	1
+flash.display::Graphics/lineTo ()	1
+flash.display::Graphics/curveTo ()	1
+flash.display::Graphics/cubicCurveTo ()	1
+flash.display::Graphics/endFill ()	1
+flash.display::Graphics/copyFrom ()	0
+flash.display::Graphics/lineBitmapStyle ()	0
+flash.display::Graphics/lineShaderStyle ()	0
+flash.display::Graphics/drawPath ()	0
+flash.display::Graphics/drawTriangles ()	0
+flash.ui::ContextMenuItem/get caption ()	0.5
+flash.ui::ContextMenuItem/set caption ()	0.5
+flash.ui::ContextMenuItem/get separatorBefore ()	0.5
+flash.ui::ContextMenuItem/set separatorBefore ()	0.5
+flash.ui::ContextMenuItem/get visible ()	0.5
+flash.ui::ContextMenuItem/set visible ()	0.5
+flash.net::FileReferenceList/get fileList ()	0
+flash.net::FileReferenceList/browse ()	0
+flash.geom::Utils3D$/projectVector ()	0
+flash.geom::Utils3D$/projectVectors ()	0
+flash.geom::Utils3D$/pointTowards ()	0
+flash.text::StaticText/get text ()	0
+flash.text.engine::TextBlock/get applyNonLinearFontScaling ()	0
+flash.text.engine::TextBlock/set applyNonLinearFontScaling ()	0
+flash.text.engine::TextBlock/get baselineFontDescription ()	0
+flash.text.engine::TextBlock/set baselineFontDescription ()	0
+flash.text.engine::TextBlock/get baselineFontSize ()	0
+flash.text.engine::TextBlock/set baselineFontSize ()	0
+flash.text.engine::TextBlock/get baselineZero ()	0
+flash.text.engine::TextBlock/set baselineZero ()	0
+flash.text.engine::TextBlock/get content ()	0
+flash.text.engine::TextBlock/set content ()	0
+flash.text.engine::TextBlock/get bidiLevel ()	0
+flash.text.engine::TextBlock/set bidiLevel ()	0
+flash.text.engine::TextBlock/get firstInvalidLine ()	0
+flash.text.engine::TextBlock/get firstLine ()	0
+flash.text.engine::TextBlock/get lastLine ()	0
+flash.text.engine::TextBlock/getTextJustifier ()	0
+flash.text.engine::TextBlock/setTextJustifier ()	0
+flash.text.engine::TextBlock/get textLineCreationResult ()	0
+flash.text.engine::TextBlock/get lineRotation ()	0
+flash.text.engine::TextBlock/set lineRotation ()	0
+flash.text.engine::TextBlock/getTabStops ()	0
+flash.text.engine::TextBlock/setTabStops ()	0
+flash.text.engine::TextBlock/findNextAtomBoundary ()	0
+flash.text.engine::TextBlock/findPreviousAtomBoundary ()	0
+flash.text.engine::TextBlock/findNextWordBoundary ()	0
+flash.text.engine::TextBlock/findPreviousWordBoundary ()	0
+flash.text.engine::TextBlock/getTextLineAtCharIndex ()	0
+flash.text.engine::TextBlock/DoCreateTextLine ()	0
+flash.text.engine::TextBlock/releaseLineCreationData ()	0
+flash.text.engine::TextBlock/releaseLines ()	0
+flash.text.engine::TextBlock/dump ()	0
+flash.system::System$/get ime ()	0
+flash.system::System$/setClipboard ()	0
+flash.system::System$/get totalMemoryNumber ()	1
+flash.system::System$/get freeMemory ()	0
+flash.system::System$/get privateMemory ()	0
+flash.system::System$/get processCPUUsage ()	0
+flash.system::System$/get useCodePage ()	0
+flash.system::System$/set useCodePage ()	0
+flash.system::System$/get vmVersion ()	0
+flash.system::System$/pause ()	0
+flash.system::System$/resume ()	0
+flash.system::System$/exit ()	0
+flash.system::System$/gc ()	0
+flash.system::System$/pauseForGCIfCollectionImminent ()	0
+flash.system::System$/disposeXML ()	0
+flash.filters::BlurFilter/get blurX ()	0
+flash.filters::BlurFilter/set blurX ()	0
+flash.filters::BlurFilter/get blurY ()	0
+flash.filters::BlurFilter/set blurY ()	0
+flash.filters::BlurFilter/get quality ()	0
+flash.filters::BlurFilter/set quality ()	0
+flash.system::Capabilities$/get isEmbeddedInAcrobat ()	0
+flash.system::Capabilities$/get hasEmbeddedVideo ()	0
+flash.system::Capabilities$/get hasAudio ()	0
+flash.system::Capabilities$/get avHardwareDisable ()	0
+flash.system::Capabilities$/get hasAccessibility ()	0
+flash.system::Capabilities$/get hasAudioEncoder ()	0
+flash.system::Capabilities$/get hasMP3 ()	0
+flash.system::Capabilities$/get hasPrinting ()	0
+flash.system::Capabilities$/get hasScreenBroadcast ()	0
+flash.system::Capabilities$/get hasScreenPlayback ()	0
+flash.system::Capabilities$/get hasStreamingAudio ()	0
+flash.system::Capabilities$/get hasStreamingVideo ()	0
+flash.system::Capabilities$/get hasVideoEncoder ()	0
+flash.system::Capabilities$/get isDebugger ()	0
+flash.system::Capabilities$/get localFileReadDisable ()	0
+flash.system::Capabilities$/get language ()	0
+flash.system::Capabilities$/get manufacturer ()	0
+flash.system::Capabilities$/get os ()	1
+flash.system::Capabilities$/get cpuArchitecture ()	0
+flash.system::Capabilities$/get playerType ()	0
+flash.system::Capabilities$/get serverString ()	0.5
+flash.system::Capabilities$/get version ()	1
+flash.system::Capabilities$/get screenColor ()	0
+flash.system::Capabilities$/get pixelAspectRatio ()	0
+flash.system::Capabilities$/get screenDPI ()	0
+flash.system::Capabilities$/get screenResolutionX ()	0
+flash.system::Capabilities$/get screenResolutionY ()	0
+flash.system::Capabilities$/get touchscreenType ()	0
+flash.system::Capabilities$/get hasIME ()	0
+flash.system::Capabilities$/get hasTLS ()	0
+flash.system::Capabilities$/get maxLevelIDC ()	0
+flash.system::Capabilities$/get supports32BitProcesses ()	0
+flash.system::Capabilities$/get supports64BitProcesses ()	0
+flash.system::Capabilities$/get _internal ()	0
+flash.system::Capabilities$/hasMultiChannelAudio ()	0
+flash.system::ApplicationDomain$/get currentDomain ()	0
+flash.system::ApplicationDomain$/get MIN_DOMAIN_MEMORY_LENGTH ()	0
+flash.system::ApplicationDomain/ctor ()	0
+flash.system::ApplicationDomain/get parentDomain ()	0
+flash.system::ApplicationDomain/getDefinition ()	0
+flash.system::ApplicationDomain/hasDefinition ()	0
+flash.system::ApplicationDomain/getQualifiedDefinitionNames ()	0
+flash.system::ApplicationDomain/get domainMemory ()	0
+flash.system::ApplicationDomain/set domainMemory ()	0
+flash.utils::Proxy/isAttribute ()	0
+flash.globalization::LocaleID$/determinePreferredLocales ()	0
+flash.globalization::LocaleID/ctor ()	0
+flash.globalization::LocaleID/getLanguage ()	0
+flash.globalization::LocaleID/getRegion ()	0
+flash.globalization::LocaleID/getScript ()	0
+flash.globalization::LocaleID/getVariant ()	0
+flash.globalization::LocaleID/get name ()	0
+flash.globalization::LocaleID/getKeysAndValues ()	0
+flash.globalization::LocaleID/get lastOperationStatus ()	0
+flash.globalization::LocaleID/isRightToLeft ()	0
+flash.ui::MouseCursorData/get data ()	0
+flash.ui::MouseCursorData/set data ()	0
+flash.ui::MouseCursorData/get hotSpot ()	0
+flash.ui::MouseCursorData/set hotSpot ()	0
+flash.ui::MouseCursorData/get frameRate ()	0
+flash.ui::MouseCursorData/set frameRate ()	0
+flash.net::NetMonitor/listStreams ()	0
+flash.globalization::NumberFormatter$/getAvailableLocaleIDNames ()	0
+flash.globalization::NumberFormatter/ctor ()	0
+flash.globalization::NumberFormatter/get lastOperationStatus ()	0
+flash.globalization::NumberFormatter/get requestedLocaleIDName ()	0
+flash.globalization::NumberFormatter/get actualLocaleIDName ()	0
+flash.globalization::NumberFormatter/get fractionalDigits ()	0
+flash.globalization::NumberFormatter/set fractionalDigits ()	0
+flash.globalization::NumberFormatter/get useGrouping ()	0
+flash.globalization::NumberFormatter/set useGrouping ()	0
+flash.globalization::NumberFormatter/get groupingPattern ()	0
+flash.globalization::NumberFormatter/set groupingPattern ()	0
+flash.globalization::NumberFormatter/get digitsType ()	0
+flash.globalization::NumberFormatter/set digitsType ()	0
+flash.globalization::NumberFormatter/get decimalSeparator ()	0
+flash.globalization::NumberFormatter/set decimalSeparator ()	0
+flash.globalization::NumberFormatter/get groupingSeparator ()	0
+flash.globalization::NumberFormatter/set groupingSeparator ()	0
+flash.globalization::NumberFormatter/get negativeSymbol ()	0
+flash.globalization::NumberFormatter/set negativeSymbol ()	0
+flash.globalization::NumberFormatter/get negativeNumberFormat ()	0
+flash.globalization::NumberFormatter/set negativeNumberFormat ()	0
+flash.globalization::NumberFormatter/get leadingZero ()	0
+flash.globalization::NumberFormatter/set leadingZero ()	0
+flash.globalization::NumberFormatter/get trailingZeros ()	0
+flash.globalization::NumberFormatter/set trailingZeros ()	0
+flash.globalization::NumberFormatter/parse ()	0
+flash.globalization::NumberFormatter/parseNumber ()	0
+flash.globalization::NumberFormatter/formatInt ()	0
+flash.globalization::NumberFormatter/formatUint ()	0
+flash.globalization::NumberFormatter/formatNumber ()	0
+flash.xml::XMLNode$/escapeXML ()	0
+flash.trace::Trace$/setLevel ()	0
+flash.trace::Trace$/getLevel ()	0
+flash.trace::Trace$/setListener ()	0
+flash.trace::Trace$/getListener ()	0
+flash.filters::ColorMatrixFilter/get matrix ()	0
+flash.filters::ColorMatrixFilter/set matrix ()	0
+flash.system::SystemUpdater/_update ()	0
+flash.system::SystemUpdater/_cancel ()	0
+flash.media::Video/ctor ()	1
+flash.media::Video/get deblocking ()	0
+flash.media::Video/set deblocking ()	0
+flash.media::Video/get smoothing ()	0
+flash.media::Video/set smoothing ()	0
+flash.media::Video/get videoWidth ()	0
+flash.media::Video/get videoHeight ()	0
+flash.media::Video/clear ()	0
+flash.media::Video/attachNetStream ()	1
+flash.media::Video/attachCamera ()	0
+flash.desktop::Clipboard$/get generalClipboard ()	0
+flash.desktop::Clipboard/get formats ()	0
+flash.desktop::Clipboard/clear ()	0
+flash.desktop::Clipboard/clearData ()	0
+flash.desktop::Clipboard/get alive ()	0
+flash.desktop::Clipboard/get canReadContents ()	0
+flash.desktop::Clipboard/get canWriteContents ()	0
+flash.desktop::Clipboard/nativeSetHandler ()	0
+flash.desktop::Clipboard/getObjectReference ()	0
+flash.desktop::Clipboard/putObjectReference ()	0
+flash.desktop::Clipboard/getString ()	0
+flash.desktop::Clipboard/putString ()	0
+flash.desktop::Clipboard/getHTML ()	0
+flash.desktop::Clipboard/putHTML ()	0
+flash.desktop::Clipboard/getRTF ()	0
+flash.desktop::Clipboard/putRTF ()	0
+flash.desktop::Clipboard/getByteArray ()	0
+flash.desktop::Clipboard/putByteArray ()	0
+flash.desktop::Clipboard/get swfVersion ()	0
+flash.desktop::Clipboard/setHandlerStoringData ()	0
+flash.display::AVM0Movie/get _interopAvailable ()	0
+flash.display::AVM0Movie/_callAS2 ()	0
+flash.display::AVM0Movie/_setCallAS3 ()	0
+flash.filters::GradientBevelFilter/get distance ()	0
+flash.filters::GradientBevelFilter/set distance ()	0
+flash.filters::GradientBevelFilter/get angle ()	0
+flash.filters::GradientBevelFilter/set angle ()	0
+flash.filters::GradientBevelFilter/get colors ()	0
+flash.filters::GradientBevelFilter/set colors ()	0
+flash.filters::GradientBevelFilter/get alphas ()	0
+flash.filters::GradientBevelFilter/set alphas ()	0
+flash.filters::GradientBevelFilter/get ratios ()	0
+flash.filters::GradientBevelFilter/set ratios ()	0
+flash.filters::GradientBevelFilter/get blurX ()	0
+flash.filters::GradientBevelFilter/set blurX ()	0
+flash.filters::GradientBevelFilter/get blurY ()	0
+flash.filters::GradientBevelFilter/set blurY ()	0
+flash.filters::GradientBevelFilter/get knockout ()	0
+flash.filters::GradientBevelFilter/set knockout ()	0
+flash.filters::GradientBevelFilter/get quality ()	0
+flash.filters::GradientBevelFilter/set quality ()	0
+flash.filters::GradientBevelFilter/get strength ()	0
+flash.filters::GradientBevelFilter/set strength ()	0
+flash.filters::GradientBevelFilter/get type ()	0
+flash.filters::GradientBevelFilter/set type ()	0
+flash.text.engine::GraphicElement/get graphic ()	0
+flash.text.engine::GraphicElement/set graphic ()	0
+flash.text.engine::GraphicElement/get elementHeight ()	0
+flash.text.engine::GraphicElement/set elementHeight ()	0
+flash.text.engine::GraphicElement/get elementWidth ()	0
+flash.text.engine::GraphicElement/set elementWidth ()	0
+flash.system::IME$/get enabled ()	0
+flash.system::IME$/set enabled ()	0
+flash.system::IME$/get conversionMode ()	0
+flash.system::IME$/set conversionMode ()	0
+flash.system::IME$/setCompositionString ()	0
+flash.system::IME$/doConversion ()	0
+flash.system::IME$/compositionSelectionChanged ()	0
+flash.system::IME$/compositionAbandoned ()	0
+flash.system::IME$/_checkSupported ()	0
+flash.security::X509Certificate/get version ()	0
+flash.security::X509Certificate/get serialNumber ()	0
+flash.security::X509Certificate/get signatureAlgorithmOID ()	0
+flash.security::X509Certificate/get signatureAlgorithmParams ()	0
+flash.security::X509Certificate/get issuer ()	0
+flash.security::X509Certificate/get validNotBefore ()	0
+flash.security::X509Certificate/get validNotAfter ()	0
+flash.security::X509Certificate/get subject ()	0
+flash.security::X509Certificate/get subjectPublicKeyAlgorithmOID ()	0
+flash.security::X509Certificate/get subjectPublicKey ()	0
+flash.security::X509Certificate/get issuerUniqueID ()	0
+flash.security::X509Certificate/get subjectUniqueID ()	0
+flash.security::X509Certificate/get encoded ()	0
+flash.events::TouchEvent/get localX ()	0
+flash.events::TouchEvent/set localX ()	0
+flash.events::TouchEvent/get localY ()	0
+flash.events::TouchEvent/set localY ()	0
+flash.events::TouchEvent/updateAfterEvent ()	0
+flash.events::TouchEvent/getStageX ()	0
+flash.events::TouchEvent/getStageY ()	0
+flash.events::MouseEvent/get localX ()	1
+flash.events::MouseEvent/set localX ()	1
+flash.events::MouseEvent/get localY ()	1
+flash.events::MouseEvent/set localY ()	1
+flash.events::MouseEvent/updateAfterEvent ()	1
+flash.events::MouseEvent/getStageX ()	0
+flash.events::MouseEvent/getStageY ()	0
+flash.events::MouseEvent/get movementX ()	0
+flash.events::MouseEvent/set movementX ()	0
+flash.events::MouseEvent/get movementY ()	0
+flash.events::MouseEvent/set movementY ()	0
+flash.net::URLRequest/get url ()	1
+flash.net::URLRequest/set url ()	1
+flash.net::URLRequest/get data ()	1
+flash.net::URLRequest/set data ()	1
+flash.net::URLRequest/get method ()	1
+flash.net::URLRequest/setMethod ()	1
+flash.net::URLRequest/get contentType ()	1
+flash.net::URLRequest/set contentType ()	1
+flash.net::URLRequest/get requestHeaders ()	1
+flash.net::URLRequest/setRequestHeaders ()	1
+flash.net::URLRequest/get digest ()	1
+flash.net::URLRequest/set digest ()	1
+flash.automation::StageCapture/capture ()	0
+flash.automation::StageCapture/cancel ()	0
+flash.automation::StageCapture/set fileNameBase ()	0
+flash.automation::StageCapture/get fileNameBase ()	0
+flash.automation::StageCapture/set clipRect ()	0
+flash.automation::StageCapture/get clipRect ()	0
+flash.automation::StageCapture/captureBitmapData ()	0
+flash.automation::StageCapture/set captureSource ()	0
+flash.automation::StageCapture/get captureSource ()	0
+flash.media::StageVideo/attachNetStream ()	0
+flash.media::StageVideo/attachCamera ()	0
+flash.media::StageVideo/get viewPort ()	0
+flash.media::StageVideo/set viewPort ()	0
+flash.media::StageVideo/set pan ()	0
+flash.media::StageVideo/get pan ()	0
+flash.media::StageVideo/set zoom ()	0
+flash.media::StageVideo/get zoom ()	0
+flash.media::StageVideo/set depth ()	0
+flash.media::StageVideo/get depth ()	0
+flash.media::StageVideo/get videoWidth ()	0
+flash.media::StageVideo/get videoHeight ()	0
+flash.media::StageVideo/get colorSpaces ()	0
+flash.globalization::StringTools$/getAvailableLocaleIDNames ()	0
+flash.globalization::StringTools/ctor ()	0
+flash.globalization::StringTools/get lastOperationStatus ()	0
+flash.globalization::StringTools/get requestedLocaleIDName ()	0
+flash.globalization::StringTools/get actualLocaleIDName ()	0
+flash.globalization::StringTools/toLowerCase ()	0
+flash.globalization::StringTools/toUpperCase ()	0
+flash.text::StyleSheet/get _styles ()	0
+flash.text::StyleSheet/set _styles ()	0
+flash.text::StyleSheet/_update ()	0
+flash.text::StyleSheet/_parseCSSInternal ()	0
+flash.text::StyleSheet/_parseCSSFontFamily ()	0
+flash.text::StyleSheet/_parseColor ()	0
+flash.display::ShaderInput/get input ()	0
+flash.display::ShaderInput/set input ()	0
+flash.display::ShaderInput/get width ()	0
+flash.display::ShaderInput/set width ()	0
+flash.display::ShaderInput/get height ()	0
+flash.display::ShaderInput/set height ()	0
+flash.display::ShaderInput/get channels ()	0
+flash.display::ShaderInput/get index ()	0
+flash.system::AuthorizedFeatures/createApplicationInstaller ()	0
+flash.system::AuthorizedFeatures/enableDiskCache ()	0
+flash.system::AuthorizedFeatures/isFeatureEnabled ()	0
+flash.system::AuthorizedFeatures/isNegativeToken ()	0
+flash.media::Sound/loadCompressedDataFromByteArray ()	0
+flash.media::Sound/loadPCMFromByteArray ()	0
+flash.media::Sound/_load ()	0
+flash.media::Sound/get url ()	0
+flash.media::Sound/get isURLInaccessible ()	0
+flash.media::Sound/play ()	0
+flash.media::Sound/get length ()	0
+flash.media::Sound/get isBuffering ()	0
+flash.media::Sound/get bytesLoaded ()	0
+flash.media::Sound/get bytesTotal ()	0
+flash.media::Sound/get id3 ()	0
+flash.media::Sound/close ()	0
+flash.media::Sound/extract ()	0
+flash.system::WorkerDomain$/get isSupported ()	0
+flash.system::WorkerDomain/createWorker ()	0
+flash.system::WorkerDomain/listWorkers ()	0
+flash.net::URLStream/load ()	1
+flash.net::URLStream/readBytes ()	1
+flash.net::URLStream/readBoolean ()	0
+flash.net::URLStream/readByte ()	1
+flash.net::URLStream/readUnsignedByte ()	0
+flash.net::URLStream/readShort ()	0
+flash.net::URLStream/readUnsignedShort ()	1
+flash.net::URLStream/readUnsignedInt ()	0
+flash.net::URLStream/readInt ()	0
+flash.net::URLStream/readFloat ()	0
+flash.net::URLStream/readDouble ()	0
+flash.net::URLStream/readMultiByte ()	0
+flash.net::URLStream/readUTF ()	0
+flash.net::URLStream/readUTFBytes ()	0
+flash.net::URLStream/get connected ()	1
+flash.net::URLStream/get bytesAvailable ()	1
+flash.net::URLStream/close ()	0
+flash.net::URLStream/readObject ()	0
+flash.net::URLStream/get objectEncoding ()	0
+flash.net::URLStream/set objectEncoding ()	0
+flash.net::URLStream/get endian ()	1
+flash.net::URLStream/set endian ()	1
+flash.net::URLStream/get diskCacheEnabled ()	0
+flash.net::URLStream/get position ()	0
+flash.net::URLStream/set position ()	0
+flash.net::URLStream/get length ()	0
+flash.net::URLStream/stop ()	0
+flash.display::SimpleButton/_updateButton ()	1
+flash.display::SimpleButton/get useHandCursor ()	1
+flash.display::SimpleButton/set useHandCursor ()	1
+flash.display::SimpleButton/get enabled ()	0
+flash.display::SimpleButton/set enabled ()	0
+flash.display::SimpleButton/get trackAsMenu ()	0
+flash.display::SimpleButton/set trackAsMenu ()	0
+flash.display::SimpleButton/get upState ()	1
+flash.display::SimpleButton/set upState ()	1
+flash.display::SimpleButton/get overState ()	1
+flash.display::SimpleButton/set overState ()	1
+flash.display::SimpleButton/get downState ()	1
+flash.display::SimpleButton/set downState ()	1
+flash.display::SimpleButton/get hitTestState ()	1
+flash.display::SimpleButton/set hitTestState ()	1
+flash.display::SimpleButton/get soundTransform ()	0
+flash.display::SimpleButton/set soundTransform ()	0
+flash.globalization::CurrencyFormatter$/getAvailableLocaleIDNames ()	0
+flash.globalization::CurrencyFormatter/ctor ()	0
+flash.globalization::CurrencyFormatter/get currencyISOCode ()	0
+flash.globalization::CurrencyFormatter/get currencySymbol ()	0
+flash.globalization::CurrencyFormatter/setCurrency ()	0
+flash.globalization::CurrencyFormatter/formatImplementation ()	0
+flash.globalization::CurrencyFormatter/formattingWithCurrencySymbolIsSafe ()	0
+flash.globalization::CurrencyFormatter/parse ()	0
+flash.globalization::CurrencyFormatter/get lastOperationStatus ()	0
+flash.globalization::CurrencyFormatter/get requestedLocaleIDName ()	0
+flash.globalization::CurrencyFormatter/get actualLocaleIDName ()	0
+flash.globalization::CurrencyFormatter/get fractionalDigits ()	0
+flash.globalization::CurrencyFormatter/set fractionalDigits ()	0
+flash.globalization::CurrencyFormatter/get useGrouping ()	0
+flash.globalization::CurrencyFormatter/set useGrouping ()	0
+flash.globalization::CurrencyFormatter/get groupingPattern ()	0
+flash.globalization::CurrencyFormatter/set groupingPattern ()	0
+flash.globalization::CurrencyFormatter/get digitsType ()	0
+flash.globalization::CurrencyFormatter/set digitsType ()	0
+flash.globalization::CurrencyFormatter/get decimalSeparator ()	0
+flash.globalization::CurrencyFormatter/set decimalSeparator ()	0
+flash.globalization::CurrencyFormatter/get groupingSeparator ()	0
+flash.globalization::CurrencyFormatter/set groupingSeparator ()	0
+flash.globalization::CurrencyFormatter/get negativeSymbol ()	0
+flash.globalization::CurrencyFormatter/set negativeSymbol ()	0
+flash.globalization::CurrencyFormatter/get negativeCurrencyFormat ()	0
+flash.globalization::CurrencyFormatter/set negativeCurrencyFormat ()	0
+flash.globalization::CurrencyFormatter/get positiveCurrencyFormat ()	0
+flash.globalization::CurrencyFormatter/set positiveCurrencyFormat ()	0
+flash.globalization::CurrencyFormatter/get leadingZero ()	0
+flash.globalization::CurrencyFormatter/set leadingZero ()	0
+flash.globalization::CurrencyFormatter/get trailingZeros ()	0
+flash.globalization::CurrencyFormatter/set trailingZeros ()	0
+global/generateRandomBytes ()	0
+flash.text::TextSnapshot/findText ()	0
+flash.text::TextSnapshot/get charCount ()	0
+flash.text::TextSnapshot/getSelected ()	0
+flash.text::TextSnapshot/getSelectedText ()	0
+flash.text::TextSnapshot/getText ()	0
+flash.text::TextSnapshot/getTextRunInfo ()	0
+flash.text::TextSnapshot/hitTestTextNearPos ()	0
+flash.text::TextSnapshot/setSelectColor ()	0
+flash.text::TextSnapshot/setSelected ()	0
+flash.display::Loader/_getJPEGLoaderContextdeblockingfilter ()	1
+flash.display::Loader/_loadBytes ()	0
+flash.display::Loader/_unload ()	0
+flash.display::Loader/_close ()	0.5
+flash.display::Loader/get content ()	0
+flash.display::Loader/get contentLoaderInfo ()	0
+flash.display::Loader/_getUncaughtErrorEvents ()	0.5
+flash.display::Loader/_setUncaughtErrorEvents ()	0.5
+flash.display::Loader/_load ()	1
+flash.utils::ObjectOutput/writeBytes ()	0
+flash.utils::ObjectOutput/writeBoolean ()	0
+flash.utils::ObjectOutput/writeByte ()	0
+flash.utils::ObjectOutput/writeShort ()	0
+flash.utils::ObjectOutput/writeInt ()	0
+flash.utils::ObjectOutput/writeUnsignedInt ()	0
+flash.utils::ObjectOutput/writeFloat ()	0
+flash.utils::ObjectOutput/writeDouble ()	0
+flash.utils::ObjectOutput/writeMultiByte ()	0
+flash.utils::ObjectOutput/writeUTF ()	0
+flash.utils::ObjectOutput/writeUTFBytes ()	0
+flash.utils::ObjectOutput/writeObject ()	0
+flash.utils::ObjectOutput/get objectEncoding ()	0
+flash.utils::ObjectOutput/set objectEncoding ()	0
+flash.utils::ObjectOutput/get endian ()	0
+flash.utils::ObjectOutput/set endian ()	0
+flash.text.engine::FontDescription$/isFontCompatible ()	0
+flash.text.engine::FontDescription$/isDeviceFontCompatible ()	0
+flash.text.engine::FontDescription/get renderingMode ()	0
+flash.text.engine::FontDescription/set renderingMode ()	0
+flash.text.engine::FontDescription/get fontLookup ()	0
+flash.text.engine::FontDescription/set fontLookup ()	0
+flash.text.engine::FontDescription/get fontName ()	0
+flash.text.engine::FontDescription/set fontName ()	0
+flash.text.engine::FontDescription/get fontPosture ()	0
+flash.text.engine::FontDescription/set fontPosture ()	0
+flash.text.engine::FontDescription/get fontWeight ()	0
+flash.text.engine::FontDescription/set fontWeight ()	0
+flash.text.engine::FontDescription/get cffHinting ()	0
+flash.text.engine::FontDescription/set cffHinting ()	0
+flash.text.engine::FontDescription/get locked ()	0
+flash.text.engine::FontDescription/set locked ()	0
+flash.globalization::NumberParseResult/ctor ()	0
+flash.globalization::NumberParseResult/get value ()	0
+flash.globalization::NumberParseResult/get startIndex ()	0
+flash.globalization::NumberParseResult/get endIndex ()	0
+flash.security::X500DistinguishedName/get commonName ()	0
+flash.security::X500DistinguishedName/get organizationName ()	0
+flash.security::X500DistinguishedName/get organizationalUnitName ()	0
+flash.security::X500DistinguishedName/get localityName ()	0
+flash.security::X500DistinguishedName/get stateOrProvinceName ()	0
+flash.security::X500DistinguishedName/get countryName ()	0
+flash.security::X500DistinguishedName/toString ()	0
+adobe.utils::XMLUI$/getProperty ()	0
+adobe.utils::XMLUI$/setProperty ()	0
+adobe.utils::XMLUI$/accept ()	0
+adobe.utils::XMLUI$/cancel ()	0
+flash.automation::Configuration$/get testAutomationConfiguration ()	0
+flash.automation::Configuration$/set deviceConfiguration ()	0
+flash.automation::Configuration$/get deviceConfiguration ()	0
+flash.text.engine::TabStop/get alignment ()	0
+flash.text.engine::TabStop/set alignment ()	0
+flash.text.engine::TabStop/get position ()	0
+flash.text.engine::TabStop/set position ()	0
+flash.text.engine::TabStop/get decimalAlignmentToken ()	0
+flash.text.engine::TabStop/set decimalAlignmentToken ()	0
+flash.ui::GameInputDevice/getControlAt ()	0
+flash.ui::GameInputDevice/get numControls ()	0
+flash.ui::GameInputDevice/startCachingSamples ()	0
+flash.ui::GameInputDevice/get sampleInterval ()	0
+flash.ui::GameInputDevice/set sampleInterval ()	0
+flash.ui::GameInputDevice/stopCachingSamples ()	0
+flash.ui::GameInputDevice/getCachedSamples ()	0
+flash.ui::GameInputDevice/get enabled ()	0
+flash.ui::GameInputDevice/set enabled ()	0
+flash.ui::GameInputDevice/get id ()	0
+flash.ui::GameInputDevice/get name ()	0
+flash.text::TextRenderer$/get antiAliasType ()	0
+flash.text::TextRenderer$/set antiAliasType ()	0
+flash.text::TextRenderer$/setAdvancedAntiAliasingTable ()	0
+flash.text::TextRenderer$/get maxLevel ()	0
+flash.text::TextRenderer$/set maxLevel ()	0
+flash.text::TextRenderer$/get displayMode ()	0
+flash.text::TextRenderer$/set displayMode ()	0
+flash.system::AuthorizedFeaturesLoader/get authorizedFeatures ()	0
+flash.system::AuthorizedFeaturesLoader/loadAuthorizedFeatures ()	0
+flash.system::AuthorizedFeaturesLoader/makeGlobal ()	0
+flash.profiler::Telemetry$/get spanMarker ()	0
+flash.profiler::Telemetry$/get connected ()	0
+flash.profiler::Telemetry$/sendMetric ()	0
+flash.profiler::Telemetry$/sendSpanMetric ()	0
+flash.profiler::Telemetry$/registerCommandHandler ()	0
+flash.profiler::Telemetry$/unregisterCommandHandler ()	0
+flash.filters::ShaderFilter/get shader ()	0
+flash.filters::ShaderFilter/set shader ()	0
+flash.filters::ShaderFilter/get _extendBy ()	0
+flash.filters::ShaderFilter/set _extendBy ()	0
+flash.ui::Keyboard$/get capsLock ()	0
+flash.ui::Keyboard$/get numLock ()	0
+flash.ui::Keyboard$/isAccessible ()	0
+flash.ui::Keyboard$/get hasVirtualKeyboard ()	0
+flash.ui::Keyboard$/get physicalKeyboardType ()	0
+flash.filters::GlowFilter/get color ()	1
+flash.filters::GlowFilter/set color ()	1
+flash.filters::GlowFilter/get alpha ()	1
+flash.filters::GlowFilter/set alpha ()	1
+flash.filters::GlowFilter/get blurX ()	1
+flash.filters::GlowFilter/set blurX ()	1
+flash.filters::GlowFilter/get blurY ()	1
+flash.filters::GlowFilter/set blurY ()	1
+flash.filters::GlowFilter/get inner ()	1
+flash.filters::GlowFilter/set inner ()	1
+flash.filters::GlowFilter/get knockout ()	1
+flash.filters::GlowFilter/set knockout ()	1
+flash.filters::GlowFilter/get quality ()	1
+flash.filters::GlowFilter/set quality ()	1
+flash.filters::GlowFilter/get strength ()	1
+flash.filters::GlowFilter/set strength ()	1
+flash.display::MovieClip/get currentFrame ()	1
+flash.display::MovieClip/get framesLoaded ()	1
+flash.display::MovieClip/get totalFrames ()	1
+flash.display::MovieClip/get trackAsMenu ()	0
+flash.display::MovieClip/set trackAsMenu ()	0
+flash.display::MovieClip/play ()	1
+flash.display::MovieClip/stop ()	1
+flash.display::MovieClip/nextFrame ()	1
+flash.display::MovieClip/prevFrame ()	1
+flash.display::MovieClip/gotoAndPlay ()	1
+flash.display::MovieClip/gotoAndStop ()	1
+flash.display::MovieClip/addFrameScript ()	1
+flash.display::MovieClip/get scenes ()	1
+flash.display::MovieClip/get currentScene ()	1
+flash.display::MovieClip/get currentLabel ()	1
+flash.display::MovieClip/get currentFrameLabel ()	1
+flash.display::MovieClip/prevScene ()	0
+flash.display::MovieClip/nextScene ()	0
+flash.display::MovieClip/get enabled ()	1
+flash.display::MovieClip/set enabled ()	1
+flash.display::MovieClip/get isPlaying ()	1
+flash.text.engine::SpaceJustifier/get letterSpacing ()	0
+flash.text.engine::SpaceJustifier/set letterSpacing ()	0
+flash.text.engine::SpaceJustifier/get minimumSpacing ()	0
+flash.text.engine::SpaceJustifier/set minimumSpacing ()	0
+flash.text.engine::SpaceJustifier/get optimumSpacing ()	0
+flash.text.engine::SpaceJustifier/set optimumSpacing ()	0
+flash.text.engine::SpaceJustifier/get maximumSpacing ()	0
+flash.text.engine::SpaceJustifier/set maximumSpacing ()	0
+flash.text.engine::SpaceJustifier/cloneSpacing ()	0
+flash.display3D.textures::CubeTexture/uploadFromBitmapData ()	0
+flash.display3D.textures::CubeTexture/uploadFromByteArray ()	0
+flash.display3D.textures::CubeTexture/uploadCompressedTextureFromByteArray ()	0
