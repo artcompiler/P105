@@ -99,13 +99,13 @@ var sites = [
     var red = "rgb(246, 21, 49)";
     var yellow = "rgb(255, 199, 11)";
     var blue = "rgb(0, 92, 173)";
-
+    var green = "rgb(55, 135, 98)";
     enter.append("circle")
       .attr("r", 3.5)
       .style("fill", function (d) {
         var rgb;
         if (d.status == 1) {
-          return blue;
+          return green;
         } else if (d.status < .1) {
           return red;
         }
@@ -114,7 +114,7 @@ var sites = [
       .style("stroke", function (d) {
         var rgb;
         if (d.status == 1) {
-          return blue;
+          return green;
         } else if (d.status < .1) {
           return red;
         }
