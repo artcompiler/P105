@@ -59,7 +59,6 @@ var sites = [
   });
 
   redraw = function redraw(site) {
-    d3.select(".title").select("text").text(site);
     d3.select("body").selectAll("svg").remove();
 
     svg = d3.select("body").append("svg")
@@ -139,11 +138,15 @@ var sites = [
       .text(function(d) {
         var status = d.status;
         if (status < 1 && status > 0 && status != .5) {
-          status = " " + Math.round(d.status * 100) + "%";
+          status = Math.round(d.status * 100) + "%";
         } else {
           status = "";
         }
-        return d.name + status;
+
+        if (d.name === "root") {
+          d3.select(".title").select("text").html(site + " (" + status + " complete)");
+        }
+        return d.name + " " + status;
       })
 
     node.attr("transform", function(d) { return "rotate(" + (d.x - 90) + ") translate(" + d.y + ")"; })
