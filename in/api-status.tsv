@@ -1446,8 +1446,8 @@ flash.text::TextField/get sharpness ()	0
 flash.text::TextField/set sharpness ()	0
 flash.text::TextField/get styleSheet ()	0
 flash.text::TextField/set styleSheet ()	0
-flash.text::TextField/get text ()	0
-flash.text::TextField/set text ()	0
+flash.text::TextField/get text ()	1
+flash.text::TextField/set text ()	1
 flash.text::TextField/get textColor ()	0.5
 flash.text::TextField/set textColor ()	0.5
 flash.text::TextField/get textHeight ()	1
