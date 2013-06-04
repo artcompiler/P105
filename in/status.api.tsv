@@ -1,0 +1,739 @@
+Array/get length ()
+Array/get length ()	1
+Array/set length ()
+Array/set length ()	1
+Class/get prototype ()
+Class/get prototype ()	1
+Date/get milliseconds ()	0
+Date/get time ()
+Date/get time ()	1
+Math$/abs ()
+Math$/abs ()	1
+Math$/ceil ()
+Math$/ceil ()	1
+Math$/cos ()
+Math$/cos ()	1
+Math$/floor ()
+Math$/floor ()	1
+Math$/min ()
+Math$/min ()	1
+Math$/pow ()
+Math$/pow ()	1
+Math$/random ()
+Math$/random ()	1
+Math$/round ()
+Math$/round ()	1
+Math$/sin ()
+Math$/sin ()	1
+Math$/sqrt ()
+Math$/sqrt ()	1
+Namespace/get prefix ()	0
+QName/get localName ()
+QName/get localName ()	1
+QName/get uri ()
+QName/get uri ()	1
+RegExp/set lastIndex ()
+RegExp/set lastIndex ()	1
+String/get length ()
+String/get length ()	1
+XML$/get ignoreWhitespace ()
+XML$/get ignoreWhitespace ()	0
+XML$/set ignoreWhitespace ()
+XML$/set ignoreWhitespace ()	0
+flash.display::Bitmap/set smoothing ()	0
+flash.display::BitmapData/draw ()	0
+flash.display::DisplayObject/get accessibilityProperties ()
+flash.display::DisplayObject/get accessibilityProperties ()	1
+flash.display::DisplayObject/get alpha ()
+flash.display::DisplayObject/get alpha ()	1
+flash.display::DisplayObject/get cacheAsBitmap ()	0
+flash.display::DisplayObject/get filters ()
+flash.display::DisplayObject/get filters ()	1
+flash.display::DisplayObject/get height ()
+flash.display::DisplayObject/get height ()	0.01
+flash.display::DisplayObject/get loaderInfo ()
+flash.display::DisplayObject/get loaderInfo ()	0
+flash.display::DisplayObject/get mask ()
+flash.display::DisplayObject/get mask ()	0
+flash.display::DisplayObject/get mouseX ()
+flash.display::DisplayObject/get mouseX ()	1
+flash.display::DisplayObject/get mouseY ()
+flash.display::DisplayObject/get mouseY ()	1
+flash.display::DisplayObject/get name ()
+flash.display::DisplayObject/get name ()	1
+flash.display::DisplayObject/get opaqueBackground ()	0
+flash.display::DisplayObject/get parent ()
+flash.display::DisplayObject/get parent ()	1
+flash.display::DisplayObject/get root ()
+flash.display::DisplayObject/get root ()	1
+flash.display::DisplayObject/get rotation ()	0
+flash.display::DisplayObject/get scaleX ()
+flash.display::DisplayObject/get scaleX ()	1
+flash.display::DisplayObject/get scaleY ()
+flash.display::DisplayObject/get scaleY ()	1
+flash.display::DisplayObject/get scrollRect ()
+flash.display::DisplayObject/get scrollRect ()	0
+flash.display::DisplayObject/get stage ()
+flash.display::DisplayObject/get stage ()	0
+flash.display::DisplayObject/get transform ()
+flash.display::DisplayObject/get transform ()	0.01
+flash.display::DisplayObject/get visible ()
+flash.display::DisplayObject/get visible ()	1
+flash.display::DisplayObject/get width ()
+flash.display::DisplayObject/get width ()	0.01
+flash.display::DisplayObject/get x ()
+flash.display::DisplayObject/get x ()	1
+flash.display::DisplayObject/get y ()
+flash.display::DisplayObject/get y ()	1
+flash.display::DisplayObject/getBounds ()
+flash.display::DisplayObject/getBounds ()	0.01
+flash.display::DisplayObject/localToGlobal ()
+flash.display::DisplayObject/localToGlobal ()	0
+flash.display::DisplayObject/set accessibilityProperties ()
+flash.display::DisplayObject/set accessibilityProperties ()	1
+flash.display::DisplayObject/set alpha ()
+flash.display::DisplayObject/set alpha ()	1
+flash.display::DisplayObject/set cacheAsBitmap ()
+flash.display::DisplayObject/set cacheAsBitmap ()	0
+flash.display::DisplayObject/set filters ()
+flash.display::DisplayObject/set filters ()	1
+flash.display::DisplayObject/set height ()
+flash.display::DisplayObject/set height ()	1
+flash.display::DisplayObject/set mask ()
+flash.display::DisplayObject/set mask ()	0
+flash.display::DisplayObject/set name ()
+flash.display::DisplayObject/set name ()	1
+flash.display::DisplayObject/set opaqueBackground ()	0
+flash.display::DisplayObject/set rotation ()	0
+flash.display::DisplayObject/set scaleX ()
+flash.display::DisplayObject/set scaleX ()	1
+flash.display::DisplayObject/set scaleY ()
+flash.display::DisplayObject/set scaleY ()	1
+flash.display::DisplayObject/set scrollRect ()	0
+flash.display::DisplayObject/set transform ()	0
+flash.display::DisplayObject/set visible ()
+flash.display::DisplayObject/set visible ()	1
+flash.display::DisplayObject/set width ()
+flash.display::DisplayObject/set width ()	1
+flash.display::DisplayObject/set x ()
+flash.display::DisplayObject/set x ()	1
+flash.display::DisplayObject/set y ()
+flash.display::DisplayObject/set y ()	1
+flash.display::DisplayObjectContainer/addChild ()
+flash.display::DisplayObjectContainer/addChild ()	1
+flash.display::DisplayObjectContainer/addChildAt ()
+flash.display::DisplayObjectContainer/addChildAt ()	1
+flash.display::DisplayObjectContainer/contains ()
+flash.display::DisplayObjectContainer/contains ()	1
+flash.display::DisplayObjectContainer/get numChildren ()
+flash.display::DisplayObjectContainer/get numChildren ()	1
+flash.display::DisplayObjectContainer/get tabChildren ()	0
+flash.display::DisplayObjectContainer/getChildAt ()
+flash.display::DisplayObjectContainer/getChildAt ()	1
+flash.display::DisplayObjectContainer/getChildByName ()
+flash.display::DisplayObjectContainer/getChildByName ()	1
+flash.display::DisplayObjectContainer/getChildIndex ()
+flash.display::DisplayObjectContainer/getChildIndex ()	1
+flash.display::DisplayObjectContainer/removeChild ()
+flash.display::DisplayObjectContainer/removeChild ()	0.5
+flash.display::DisplayObjectContainer/removeChildAt ()
+flash.display::DisplayObjectContainer/removeChildAt ()	0.5
+flash.display::DisplayObjectContainer/set mouseChildren ()
+flash.display::DisplayObjectContainer/set mouseChildren ()	0.5
+flash.display::DisplayObjectContainer/set tabChildren ()
+flash.display::DisplayObjectContainer/set tabChildren ()	0.5
+flash.display::DisplayObjectContainer/setChildIndex ()	0
+flash.display::DisplayObjectContainer/swapChildren ()	0
+flash.display::FrameLabel/get name ()
+flash.display::FrameLabel/get name ()	0
+flash.display::Graphics/beginBitmapFill ()	0
+flash.display::Graphics/beginFill ()
+flash.display::Graphics/beginFill ()	1
+flash.display::Graphics/beginGradientFill ()
+flash.display::Graphics/beginGradientFill ()	0.01
+flash.display::Graphics/clear ()
+flash.display::Graphics/clear ()	1
+flash.display::Graphics/drawCircle ()
+flash.display::Graphics/drawCircle ()	0.01
+flash.display::Graphics/drawRect ()
+flash.display::Graphics/drawRect ()	1
+flash.display::Graphics/drawRoundRect ()
+flash.display::Graphics/drawRoundRect ()	0.01
+flash.display::Graphics/endFill ()
+flash.display::Graphics/endFill ()	0.01
+flash.display::Graphics/lineGradientStyle ()
+flash.display::Graphics/lineGradientStyle ()	0.01
+flash.display::Graphics/lineStyle ()
+flash.display::Graphics/lineStyle ()	1
+flash.display::Graphics/lineTo ()
+flash.display::Graphics/lineTo ()	0.01
+flash.display::Graphics/moveTo ()
+flash.display::Graphics/moveTo ()	1
+flash.display::InteractiveObject/get tabEnabled ()
+flash.display::InteractiveObject/get tabEnabled ()	0.5
+flash.display::InteractiveObject/set contextMenu ()
+flash.display::InteractiveObject/set contextMenu ()	0.5
+flash.display::InteractiveObject/set doubleClickEnabled ()
+flash.display::InteractiveObject/set doubleClickEnabled ()	0.5
+flash.display::InteractiveObject/set focusRect ()	0
+flash.display::InteractiveObject/set mouseEnabled ()
+flash.display::InteractiveObject/set mouseEnabled ()	0.5
+flash.display::InteractiveObject/set tabEnabled ()
+flash.display::InteractiveObject/set tabEnabled ()	0.5
+flash.display::InteractiveObject/set tabIndex ()
+flash.display::InteractiveObject/set tabIndex ()	0.5
+flash.display::Loader/close ()	0
+flash.display::Loader/get content ()
+flash.display::Loader/get content ()	1
+flash.display::Loader/get contentLoaderInfo ()
+flash.display::Loader/get contentLoaderInfo ()	0.01
+flash.display::Loader/get uncaughtErrorEvents ()
+flash.display::Loader/get uncaughtErrorEvents ()	1
+flash.display::Loader/load ()
+flash.display::Loader/load ()	1
+flash.display::Loader/unload ()	0
+flash.display::LoaderInfo/get actionScriptVersion ()
+flash.display::LoaderInfo/get actionScriptVersion ()	0.01
+flash.display::LoaderInfo/get applicationDomain ()
+flash.display::LoaderInfo/get applicationDomain ()	1
+flash.display::LoaderInfo/get content ()
+flash.display::LoaderInfo/get content ()	1
+flash.display::LoaderInfo/get frameRate ()
+flash.display::LoaderInfo/get frameRate ()	0.01
+flash.display::LoaderInfo/get loader ()
+flash.display::LoaderInfo/get loader ()	1
+flash.display::LoaderInfo/get loaderURL ()
+flash.display::LoaderInfo/get loaderURL ()	0.01
+flash.display::LoaderInfo/get parameters ()
+flash.display::LoaderInfo/get parameters ()	1
+flash.display::LoaderInfo/get sharedEvents ()
+flash.display::LoaderInfo/get sharedEvents ()	0.01
+flash.display::LoaderInfo/get uncaughtErrorEvents ()
+flash.display::LoaderInfo/get uncaughtErrorEvents ()	0.01
+flash.display::LoaderInfo/get url ()
+flash.display::LoaderInfo/get url ()	0.01
+flash.display::MovieClip/addFrameScript ()
+flash.display::MovieClip/addFrameScript ()	1
+flash.display::MovieClip/get currentFrame ()
+flash.display::MovieClip/get currentFrame ()	1
+flash.display::MovieClip/get currentLabels ()
+flash.display::MovieClip/get currentLabels ()	1
+flash.display::MovieClip/get currentScene ()
+flash.display::MovieClip/get currentScene ()	1
+flash.display::MovieClip/gotoAndPlay ()	1
+flash.display::MovieClip/gotoAndStop ()
+flash.display::MovieClip/gotoAndStop ()	0.01
+flash.display::MovieClip/stop ()
+flash.display::MovieClip/stop ()	1
+flash.display::NativeMenuItem/set enabled ()
+flash.display::NativeMenuItem/set enabled ()	0
+flash.display::Scene/get labels ()
+flash.display::Scene/get labels ()	0
+flash.display::Shape/get graphics ()
+flash.display::Shape/get graphics ()	1
+flash.display::SimpleButton/set downState ()
+flash.display::SimpleButton/set downState ()	0.01
+flash.display::SimpleButton/set hitTestState ()
+flash.display::SimpleButton/set hitTestState ()	0.01
+flash.display::SimpleButton/set overState ()
+flash.display::SimpleButton/set overState ()	0.01
+flash.display::SimpleButton/set upState ()
+flash.display::SimpleButton/set upState ()	0.01
+flash.display::SimpleButton/set useHandCursor ()
+flash.display::SimpleButton/set useHandCursor ()	0.01
+flash.display::Sprite/get graphics ()
+flash.display::Sprite/get graphics ()	1
+flash.display::Sprite/set buttonMode ()
+flash.display::Sprite/set buttonMode ()	0
+flash.display::Sprite/set hitArea ()	0
+flash.display::Sprite/set useHandCursor ()
+flash.display::Sprite/set useHandCursor ()	0
+flash.display::Stage/addEventListener ()
+flash.display::Stage/addEventListener ()	1
+flash.display::Stage/dispatchEvent ()
+flash.display::Stage/dispatchEvent ()	1
+flash.display::Stage/get displayState ()
+flash.display::Stage/get displayState ()	1
+flash.display::Stage/get focus ()
+flash.display::Stage/get focus ()	1
+flash.display::Stage/get frameRate ()
+flash.display::Stage/get frameRate ()	1
+flash.display::Stage/get numChildren ()	0
+flash.display::Stage/get stageHeight ()
+flash.display::Stage/get stageHeight ()	1
+flash.display::Stage/get stageVideos ()
+flash.display::Stage/get stageVideos ()	1
+flash.display::Stage/get stageWidth ()
+flash.display::Stage/get stageWidth ()	1
+flash.display::Stage/invalidate ()	0
+flash.display::Stage/set align ()
+flash.display::Stage/set align ()	1
+flash.display::Stage/set frameRate ()
+flash.display::Stage/set frameRate ()	1
+flash.display::Stage/set scaleMode ()
+flash.display::Stage/set scaleMode ()	0
+flash.display::Stage/set scaleMode ()	1
+flash.events::ErrorEvent/clone ()
+flash.events::ErrorEvent/clone ()	0
+flash.events::ErrorEvent/get errorID ()	0
+flash.events::Event/clone ()
+flash.events::Event/clone ()	0
+flash.events::Event/formatToString ()	0
+flash.events::Event/get bubbles ()
+flash.events::Event/get bubbles ()	0
+flash.events::Event/get cancelable ()
+flash.events::Event/get cancelable ()	0
+flash.events::Event/get currentTarget ()	0
+flash.events::Event/get eventPhase ()	0
+flash.events::Event/get target ()
+flash.events::Event/get target ()	0
+flash.events::Event/get type ()
+flash.events::Event/get type ()	0
+flash.events::Event/isDefaultPrevented ()
+flash.events::Event/isDefaultPrevented ()	0
+flash.events::Event/preventDefault ()	0
+flash.events::Event/stopImmediatePropagation ()	0
+flash.events::Event/stopPropagation ()
+flash.events::Event/stopPropagation ()	0
+flash.events::EventDispatcher/addEventListener ()
+flash.events::EventDispatcher/addEventListener ()	0
+flash.events::EventDispatcher/dispatchEvent ()
+flash.events::EventDispatcher/dispatchEvent ()	0
+flash.events::EventDispatcher/hasEventListener ()
+flash.events::EventDispatcher/hasEventListener ()	0
+flash.events::EventDispatcher/removeEventListener ()
+flash.events::EventDispatcher/removeEventListener ()	0
+flash.events::EventDispatcher/toString ()
+flash.events::EventDispatcher/toString ()	0
+flash.events::HTTPStatusEvent/clone ()
+flash.events::HTTPStatusEvent/clone ()	0
+flash.events::HTTPStatusEvent/get responseHeaders ()
+flash.events::HTTPStatusEvent/get responseHeaders ()	0
+flash.events::HTTPStatusEvent/get responseURL ()
+flash.events::HTTPStatusEvent/get responseURL ()	0
+flash.events::HTTPStatusEvent/get status ()
+flash.events::HTTPStatusEvent/get status ()	0
+flash.events::HTTPStatusEvent/set responseHeaders ()
+flash.events::HTTPStatusEvent/set responseHeaders ()	0
+flash.events::HTTPStatusEvent/set responseURL ()
+flash.events::HTTPStatusEvent/set responseURL ()	0
+flash.events::IOErrorEvent/toString ()	0
+flash.events::MouseEvent/clone ()	0
+flash.events::MouseEvent/get localX ()	0
+flash.events::MouseEvent/get localY ()	0
+flash.events::MouseEvent/set localX ()
+flash.events::MouseEvent/set localX ()	0
+flash.events::MouseEvent/set localY ()
+flash.events::MouseEvent/set localY ()	0
+flash.events::MouseEvent/updateAfterEvent ()	0
+flash.events::NetStatusEvent/get info ()
+flash.events::NetStatusEvent/get info ()	0
+flash.events::ProgressEvent/clone ()
+flash.events::ProgressEvent/clone ()	0
+flash.events::ProgressEvent/get bytesLoaded ()
+flash.events::ProgressEvent/get bytesLoaded ()	0
+flash.events::ProgressEvent/get bytesTotal ()
+flash.events::ProgressEvent/get bytesTotal ()	0
+flash.events::ProgressEvent/set bytesLoaded ()
+flash.events::ProgressEvent/set bytesLoaded ()	0
+flash.events::SecurityErrorEvent/clone ()	0
+flash.events::StageVideoAvailabilityEvent/get availability ()
+flash.events::StageVideoAvailabilityEvent/get availability ()	0
+flash.events::StageVideoEvent/get status ()
+flash.events::StageVideoEvent/get status ()	0
+flash.events::StatusEvent/get level ()	0
+flash.events::TextEvent/get text ()
+flash.events::TextEvent/get text ()	0
+flash.external::ExternalInterface$/addCallback ()
+flash.external::ExternalInterface$/addCallback ()	0
+flash.external::ExternalInterface$/call ()
+flash.external::ExternalInterface$/call ()	0
+flash.external::ExternalInterface$/get available ()
+flash.external::ExternalInterface$/get available ()	0
+flash.external::ExternalInterface$/get objectID ()
+flash.external::ExternalInterface$/get objectID ()	0
+flash.filters::BlurFilter/set blurX ()
+flash.filters::BlurFilter/set blurX ()	0
+flash.filters::BlurFilter/set blurY ()
+flash.filters::BlurFilter/set blurY ()	0
+flash.filters::BlurFilter/set quality ()
+flash.filters::BlurFilter/set quality ()	0
+flash.filters::DropShadowFilter/set alpha ()
+flash.filters::DropShadowFilter/set alpha ()	0
+flash.filters::DropShadowFilter/set angle ()
+flash.filters::DropShadowFilter/set angle ()	0
+flash.filters::DropShadowFilter/set blurX ()
+flash.filters::DropShadowFilter/set blurX ()	0
+flash.filters::DropShadowFilter/set blurY ()
+flash.filters::DropShadowFilter/set blurY ()	0
+flash.filters::DropShadowFilter/set color ()
+flash.filters::DropShadowFilter/set color ()	0
+flash.filters::DropShadowFilter/set distance ()
+flash.filters::DropShadowFilter/set distance ()	0
+flash.filters::DropShadowFilter/set hideObject ()
+flash.filters::DropShadowFilter/set hideObject ()	0
+flash.filters::DropShadowFilter/set inner ()
+flash.filters::DropShadowFilter/set inner ()	0
+flash.filters::DropShadowFilter/set knockout ()
+flash.filters::DropShadowFilter/set knockout ()	0
+flash.filters::DropShadowFilter/set quality ()
+flash.filters::DropShadowFilter/set quality ()	0
+flash.filters::DropShadowFilter/set strength ()
+flash.filters::DropShadowFilter/set strength ()	0
+flash.filters::GlowFilter/set alpha ()
+flash.filters::GlowFilter/set alpha ()	0
+flash.filters::GlowFilter/set blurX ()
+flash.filters::GlowFilter/set blurX ()	0
+flash.filters::GlowFilter/set blurY ()
+flash.filters::GlowFilter/set blurY ()	0
+flash.filters::GlowFilter/set color ()
+flash.filters::GlowFilter/set color ()	0
+flash.filters::GlowFilter/set inner ()
+flash.filters::GlowFilter/set inner ()	0
+flash.filters::GlowFilter/set knockout ()
+flash.filters::GlowFilter/set knockout ()	0
+flash.filters::GlowFilter/set quality ()
+flash.filters::GlowFilter/set quality ()	0
+flash.filters::GlowFilter/set strength ()
+flash.filters::GlowFilter/set strength ()	0
+flash.geom::ColorTransform/set color ()	0
+flash.geom::Matrix/createBox ()
+flash.geom::Matrix/createBox ()	0.01
+flash.geom::Matrix/createGradientBox ()
+flash.geom::Matrix/createGradientBox ()	0.01
+flash.geom::Point/equals ()
+flash.geom::Point/equals ()	0.01
+flash.geom::Rectangle/clone ()
+flash.geom::Rectangle/clone ()	0.01
+flash.geom::Rectangle/equals ()
+flash.geom::Rectangle/equals ()	0.01
+flash.geom::Rectangle/get bottom ()
+flash.geom::Rectangle/get bottom ()	0.01
+flash.geom::Rectangle/get left ()
+flash.geom::Rectangle/get left ()	0.01
+flash.geom::Rectangle/get right ()
+flash.geom::Rectangle/get right ()	0.01
+flash.geom::Rectangle/get top ()
+flash.geom::Rectangle/get top ()	0.01
+flash.geom::Transform/get colorTransform ()	0
+flash.geom::Transform/get matrix ()
+flash.geom::Transform/get matrix ()	0
+flash.geom::Transform/set colorTransform ()	0
+flash.media::SoundTransform/set leftToLeft ()
+flash.media::SoundTransform/set leftToLeft ()	0
+flash.media::SoundTransform/set leftToRight ()
+flash.media::SoundTransform/set leftToRight ()	0
+flash.media::SoundTransform/set pan ()
+flash.media::SoundTransform/set pan ()	0
+flash.media::SoundTransform/set rightToLeft ()
+flash.media::SoundTransform/set rightToLeft ()	0
+flash.media::SoundTransform/set rightToRight ()
+flash.media::SoundTransform/set rightToRight ()	0
+flash.media::SoundTransform/set volume ()
+flash.media::SoundTransform/set volume ()	0
+flash.media::StageVideo/attachNetStream ()
+flash.media::StageVideo/attachNetStream ()	0
+flash.media::StageVideo/set viewPort ()
+flash.media::StageVideo/set viewPort ()	0
+flash.media::Video/attachNetStream ()
+flash.media::Video/attachNetStream ()	0
+flash.media::Video/clear ()	0
+flash.media::Video/get videoHeight ()	0
+flash.media::Video/get videoWidth ()
+flash.media::Video/get videoWidth ()	0
+flash.media::Video/set deblocking ()	0
+flash.media::Video/set smoothing ()
+flash.media::Video/set smoothing ()	0
+flash.net.drm::DRMManager$/getDRMManager ()	0
+flash.net::LocalConnection/send ()	0
+flash.net::NetConnection/call ()
+flash.net::NetConnection/call ()	0
+flash.net::NetConnection/connect ()
+flash.net::NetConnection/connect ()	0
+flash.net::NetConnection/get uri ()	0
+flash.net::NetConnection/set client ()
+flash.net::NetConnection/set client ()	0
+flash.net::NetStream/appendBytes ()
+flash.net::NetStream/appendBytes ()	0
+flash.net::NetStream/appendBytesAction ()
+flash.net::NetStream/appendBytesAction ()	0
+flash.net::NetStream/get bufferLength ()
+flash.net::NetStream/get bufferLength ()	0
+flash.net::NetStream/get bufferTime ()
+flash.net::NetStream/get bufferTime ()	0
+flash.net::NetStream/get bytesLoaded ()	0
+flash.net::NetStream/get bytesTotal ()	0
+flash.net::NetStream/get checkPolicyFile ()
+flash.net::NetStream/get checkPolicyFile ()	0
+flash.net::NetStream/get client ()	0
+flash.net::NetStream/get currentFPS ()
+flash.net::NetStream/get currentFPS ()	0
+flash.net::NetStream/get info ()
+flash.net::NetStream/get info ()	0
+flash.net::NetStream/get time ()
+flash.net::NetStream/get time ()	0
+flash.net::NetStream/pause ()	0
+flash.net::NetStream/play ()
+flash.net::NetStream/play ()	0
+flash.net::NetStream/resume ()
+flash.net::NetStream/resume ()	0
+flash.net::NetStream/set bufferTime ()
+flash.net::NetStream/set bufferTime ()	0
+flash.net::NetStream/set checkPolicyFile ()
+flash.net::NetStream/set checkPolicyFile ()	0
+flash.net::NetStream/set client ()
+flash.net::NetStream/set client ()	0
+flash.net::NetStream/set soundTransform ()
+flash.net::NetStream/set soundTransform ()	0
+flash.net::NetStreamInfo/get audioBufferByteLength ()
+flash.net::NetStreamInfo/get audioBufferByteLength ()	0
+flash.net::NetStreamInfo/get byteCount ()	0
+flash.net::NetStreamInfo/get droppedFrames ()
+flash.net::NetStreamInfo/get droppedFrames ()	0
+flash.net::NetStreamInfo/get maxBytesPerSecond ()	0
+flash.net::NetStreamInfo/get playbackBytesPerSecond ()
+flash.net::NetStreamInfo/get playbackBytesPerSecond ()	0
+flash.net::NetStreamInfo/get videoBufferByteLength ()
+flash.net::NetStreamInfo/get videoBufferByteLength ()	0
+flash.net::SharedObject$/getLocal ()
+flash.net::SharedObject$/getLocal ()	1
+flash.net::SharedObject$/set defaultObjectEncoding ()
+flash.net::SharedObject$/set defaultObjectEncoding ()	1
+flash.net::SharedObject/flush ()	0
+flash.net::SharedObject/get data ()
+flash.net::SharedObject/get data ()	1
+flash.net::URLLoader/addEventListener ()
+flash.net::URLLoader/addEventListener ()	1
+flash.net::URLLoader/load ()
+flash.net::URLLoader/load ()	1
+flash.net::URLRequest/get data ()
+flash.net::URLRequest/get data ()	0
+flash.net::URLRequest/get requestHeaders ()	0
+flash.net::URLRequest/get url ()
+flash.net::URLRequest/get url ()	0
+flash.net::URLRequest/set data ()
+flash.net::URLRequest/set data ()	0
+flash.net::URLRequest/set method ()
+flash.net::URLRequest/set method ()	0
+flash.net::URLRequest/set requestHeaders ()
+flash.net::URLRequest/set requestHeaders ()	0
+flash.net::URLRequest/set url ()
+flash.net::URLRequest/set url ()	0
+flash.net::URLStream/get bytesAvailable ()
+flash.net::URLStream/get bytesAvailable ()	0
+flash.net::URLStream/get connected ()
+flash.net::URLStream/get connected ()	0
+flash.net::URLStream/load ()
+flash.net::URLStream/load ()	0
+flash.net::URLStream/readBytes ()
+flash.net::URLStream/readBytes ()	0
+flash.net::URLVariables/toString ()	0
+flash.system::ApplicationDomain$/get currentDomain ()
+flash.system::ApplicationDomain$/get currentDomain ()	0.01
+flash.system::ApplicationDomain/getDefinition ()
+flash.system::ApplicationDomain/getDefinition ()	0.01
+flash.system::ApplicationDomain/hasDefinition ()
+flash.system::ApplicationDomain/hasDefinition ()	0.01
+flash.system::Capabilities$/get hasAccessibility ()
+flash.system::Capabilities$/get hasAccessibility ()	1
+flash.system::Capabilities$/get isDebugger ()
+flash.system::Capabilities$/get isDebugger ()	0.01
+flash.system::Capabilities$/get language ()
+flash.system::Capabilities$/get language ()	0.01
+flash.system::Capabilities$/get manufacturer ()
+flash.system::Capabilities$/get manufacturer ()	0.01
+flash.system::Capabilities$/get os ()
+flash.system::Capabilities$/get os ()	1
+flash.system::Capabilities$/get playerType ()
+flash.system::Capabilities$/get playerType ()	0.01
+flash.system::Capabilities$/get screenColor ()	0
+flash.system::Capabilities$/get screenResolutionX ()
+flash.system::Capabilities$/get screenResolutionX ()	1
+flash.system::Capabilities$/get screenResolutionY ()
+flash.system::Capabilities$/get screenResolutionY ()	1
+flash.system::Capabilities$/get serverString ()
+flash.system::Capabilities$/get serverString ()	0.5
+flash.system::Capabilities$/get version ()
+flash.system::Capabilities$/get version ()	1
+flash.system::Security$/allowDomain ()
+flash.system::Security$/allowDomain ()	0.5
+flash.system::Security$/allowInsecureDomain ()
+flash.system::Security$/allowInsecureDomain ()	0.5
+flash.system::Security$/get sandboxType ()
+flash.system::Security$/get sandboxType ()	1
+flash.system::Security$/loadPolicyFile ()	0
+flash.system::SecurityDomain$/get currentDomain ()
+flash.system::SecurityDomain$/get currentDomain ()	0.01
+flash.system::System$/get totalMemory ()
+flash.system::System$/get totalMemory ()	0.01
+flash.system::System$/get totalMemoryNumber ()
+flash.system::System$/get totalMemoryNumber ()	0
+flash.system::System$/get totalMemoryNumber ()	0.01
+flash.system::System$/get useCodePage ()	0
+flash.system::System$/set useCodePage ()	0
+flash.text::StyleSheet/parseCSS ()	0
+flash.text::StyleSheet/transform ()	0
+flash.text::TextField/get defaultTextFormat ()
+flash.text::TextField/get defaultTextFormat ()	0
+flash.text::TextField/get htmlText ()	0
+flash.text::TextField/get text ()
+flash.text::TextField/get text ()	0
+flash.text::TextField/get textHeight ()
+flash.text::TextField/get textHeight ()	0
+flash.text::TextField/set antiAliasType ()	0
+flash.text::TextField/set autoSize ()
+flash.text::TextField/set autoSize ()	0
+flash.text::TextField/set background ()
+flash.text::TextField/set background ()	0
+flash.text::TextField/set backgroundColor ()
+flash.text::TextField/set backgroundColor ()	0
+flash.text::TextField/set border ()
+flash.text::TextField/set border ()	0
+flash.text::TextField/set borderColor ()
+flash.text::TextField/set borderColor ()	0
+flash.text::TextField/set condenseWhite ()
+flash.text::TextField/set condenseWhite ()	0
+flash.text::TextField/set defaultTextFormat ()
+flash.text::TextField/set defaultTextFormat ()	0
+flash.text::TextField/set embedFonts ()	0
+flash.text::TextField/set gridFitType ()	0
+flash.text::TextField/set htmlText ()
+flash.text::TextField/set htmlText ()	0
+flash.text::TextField/set multiline ()
+flash.text::TextField/set multiline ()	0
+flash.text::TextField/set scrollH ()	0
+flash.text::TextField/set selectable ()
+flash.text::TextField/set selectable ()	0
+flash.text::TextField/set styleSheet ()	0
+flash.text::TextField/set text ()
+flash.text::TextField/set text ()	0
+flash.text::TextField/set textColor ()	0
+flash.text::TextField/set type ()	0
+flash.text::TextField/set wordWrap ()
+flash.text::TextField/set wordWrap ()	0
+flash.text::TextField/setTextFormat ()
+flash.text::TextField/setTextFormat ()	0
+flash.text::TextFormat/set align ()
+flash.text::TextFormat/set align ()	0
+flash.text::TextFormat/set bold ()
+flash.text::TextFormat/set bold ()	0
+flash.text::TextFormat/set color ()
+flash.text::TextFormat/set color ()	0
+flash.text::TextFormat/set font ()
+flash.text::TextFormat/set font ()	0
+flash.text::TextFormat/set indent ()	0
+flash.text::TextFormat/set italic ()	0
+flash.text::TextFormat/set kerning ()	0
+flash.text::TextFormat/set leading ()	0
+flash.text::TextFormat/set leftMargin ()
+flash.text::TextFormat/set leftMargin ()	0
+flash.text::TextFormat/set letterSpacing ()	0
+flash.text::TextFormat/set rightMargin ()
+flash.text::TextFormat/set rightMargin ()	0
+flash.text::TextFormat/set size ()
+flash.text::TextFormat/set size ()	0
+flash.text::TextFormat/set target ()	0
+flash.text::TextFormat/set underline ()
+flash.text::TextFormat/set underline ()	0
+flash.text::TextFormat/set url ()	0
+flash.ui::ContextMenu/get builtInItems ()
+flash.ui::ContextMenu/get builtInItems ()	0
+flash.ui::ContextMenu/get customItems ()
+flash.ui::ContextMenu/get customItems ()	0
+flash.ui::ContextMenu/hideBuiltInItems ()
+flash.ui::ContextMenu/hideBuiltInItems ()	0
+flash.ui::ContextMenu/set builtInItems ()
+flash.ui::ContextMenu/set builtInItems ()	0
+flash.ui::ContextMenu/set customItems ()
+flash.ui::ContextMenu/set customItems ()	0
+flash.ui::ContextMenuBuiltInItems/set forwardAndBack ()
+flash.ui::ContextMenuBuiltInItems/set forwardAndBack ()	0
+flash.ui::ContextMenuBuiltInItems/set loop ()
+flash.ui::ContextMenuBuiltInItems/set loop ()	0
+flash.ui::ContextMenuBuiltInItems/set play ()
+flash.ui::ContextMenuBuiltInItems/set play ()	0
+flash.ui::ContextMenuBuiltInItems/set print ()
+flash.ui::ContextMenuBuiltInItems/set print ()	0
+flash.ui::ContextMenuBuiltInItems/set quality ()
+flash.ui::ContextMenuBuiltInItems/set quality ()	0
+flash.ui::ContextMenuBuiltInItems/set rewind ()
+flash.ui::ContextMenuBuiltInItems/set rewind ()	0
+flash.ui::ContextMenuBuiltInItems/set save ()
+flash.ui::ContextMenuBuiltInItems/set save ()	0
+flash.ui::ContextMenuBuiltInItems/set zoom ()
+flash.ui::ContextMenuBuiltInItems/set zoom ()	0
+flash.ui::ContextMenuItem/set caption ()
+flash.ui::ContextMenuItem/set caption ()	0
+flash.ui::ContextMenuItem/set separatorBefore ()
+flash.ui::ContextMenuItem/set separatorBefore ()	0
+flash.ui::ContextMenuItem/set visible ()
+flash.ui::ContextMenuItem/set visible ()	0
+flash.ui::Mouse$/show ()
+flash.ui::Mouse$/show ()	0
+flash.utils::ByteArray/get bytesAvailable ()	0
+flash.utils::ByteArray/get length ()
+flash.utils::ByteArray/get length ()	1
+flash.utils::ByteArray/get position ()	0
+flash.utils::ByteArray/readByte ()	0
+flash.utils::ByteArray/readBytes ()
+flash.utils::ByteArray/readBytes ()	0.01
+flash.utils::ByteArray/readInt ()	0
+flash.utils::ByteArray/readObject ()
+flash.utils::ByteArray/readObject ()	1
+flash.utils::ByteArray/readShort ()	0
+flash.utils::ByteArray/readUTFBytes ()	0
+flash.utils::ByteArray/readUnsignedByte ()	0
+flash.utils::ByteArray/readUnsignedInt ()	0
+flash.utils::ByteArray/set endian ()	0
+flash.utils::ByteArray/set length ()
+flash.utils::ByteArray/set length ()	1
+flash.utils::ByteArray/set objectEncoding ()
+flash.utils::ByteArray/set objectEncoding ()	1
+flash.utils::ByteArray/set position ()
+flash.utils::ByteArray/set position ()	1
+flash.utils::ByteArray/toString ()
+flash.utils::ByteArray/toString ()	0.01
+flash.utils::ByteArray/writeByte ()
+flash.utils::ByteArray/writeByte ()	1
+flash.utils::ByteArray/writeBytes ()	0
+flash.utils::ByteArray/writeInt ()	0
+flash.utils::ByteArray/writeObject ()	0
+flash.utils::ByteArray/writeShort ()	0
+flash.utils::ByteArray/writeUTFBytes ()	0
+flash.utils::ByteArray/writeUnsignedInt ()
+flash.utils::ByteArray/writeUnsignedInt ()	1
+flash.utils::Timer/get currentCount ()	0
+flash.utils::Timer/get delay ()	0
+flash.utils::Timer/get repeatCount ()	0
+flash.utils::Timer/get running ()
+flash.utils::Timer/get running ()	1
+flash.utils::Timer/reset ()	0
+flash.utils::Timer/start ()
+flash.utils::Timer/start ()	1
+flash.utils::Timer/stop ()
+flash.utils::Timer/stop ()	1
+global/bugzilla ()	0
+global/decodeURI ()	0
+global/decodeURIComponent ()
+global/decodeURIComponent ()	1
+global/describeType ()
+global/describeType ()	0.5
+global/encodeURI ()	0
+global/encodeURIComponent ()
+global/encodeURIComponent ()	1
+global/escape ()
+global/escape ()	1
+global/getQualifiedClassName ()
+global/getQualifiedClassName ()	0
+global/isFinite ()
+global/isFinite ()	1
+global/isNaN ()
+global/isNaN ()	1
+global/parseFloat ()
+global/parseFloat ()	1
+global/parseInt ()
+global/parseInt ()	1
+global/trace ()
+global/trace ()	1
+global/unescape ()
+global/unescape ()	1

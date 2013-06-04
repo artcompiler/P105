@@ -7,18 +7,19 @@ var redraw;
 
   var sites = [
     "www.youtube.com",
+    "www.vimeo.com",
+    "www.funnyordie.com",
+/*
     "beta.abc.go.com_shows",
     "live.wsj.com",
     "movies.uk.msn.com",
     "video.foxnews.com",
-    "vimeo.com",
     "www.aljazeera.com_video_",
     "www.bbc.co.uk",
     "www.bing.com_?scope=video",
     "www.cbc.ca_player",
     "www.cnn.com_video",
     "www.dailymotion.com",
-    "www.funnyordie.com",
     "www.grindtv.com",
     "www.guardian.co.uk_video",
     "www.hulu.com",
@@ -29,8 +30,10 @@ var redraw;
     "www.ustream.tv_new",
     "www.vevo.com",
     "www.facebook.com",
+*/
   ];
 
+  var grey = "#aaa";
   var red = "rgb(246, 21, 49)";
   var yellow = "rgb(255, 199, 11)";
   var blue = "rgb(0, 92, 173)";
@@ -39,7 +42,8 @@ var redraw;
   var chooserText = [
     "<b>This page shows the Shumway implementation status for the native Flash APIs ",
     "used by the top video sites.</b> Choose a video site to see the status of the ",
-    "Shumway implementation. <font class='green'>Green is good</font>. ",
+    "Shumway implementation. <font class='grey'>Grey means not tested</font>. ",
+    "<font class='green'>Green is good</font>. ",
     "<font class='red'>Red is bad</font>. <font class='yellow'>Yellow is ",
     "somewhere in between</font>. (% indicates completion rate, if not 100%, 50% or >10%.)",
     "The source code can be found here: ",
@@ -127,6 +131,8 @@ var redraw;
         var rgb;
         if (d.status == 1) {
           return green;
+        } else if (d.status == 0) {
+          return grey;
         } else if (d.status < .1) {
           return red;
         }
@@ -136,6 +142,8 @@ var redraw;
         var rgb;
         if (d.status == 1) {
           return green;
+        } else if (d.status == 0) {
+          return grey;
         } else if (d.status < .1) {
           return red;
         }
@@ -143,7 +151,7 @@ var redraw;
       })
       .attr("title", function(d) {
         var status = d.status;
-        if (status < 1 && status > 0 && status != .5) {
+        if (status < 1 && status > 0.1 && status != .5) {
           status = " " + Math.round(d.status * 100) + "%";
         } else {
           status = "";
@@ -158,7 +166,7 @@ var redraw;
       .attr("transform", function(d) { return d.x < 180 ? "translate(8)" : "rotate(180) translate(-8)"; })
       .text(function(d) {
         var status = d.status;
-        if (status < 1 && status > 0 && status != .5) {
+        if (status < 1 && status > 0.1 && status != .5) {
           status = Math.round(d.status * 100) + "%";
         } else {
           status = "";

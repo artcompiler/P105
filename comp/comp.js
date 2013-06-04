@@ -79,18 +79,17 @@ function transform(data, site) {
 }
 
 var sites = [
+/*
   "beta.abc.go.com_shows",
   "live.wsj.com",
   "movies.uk.msn.com",
   "video.foxnews.com",
-  "vimeo.com",
   "www.aljazeera.com_video_",
   "www.bbc.co.uk",
   "www.bing.com_?scope=video",
   "www.cbc.ca_player",
   "www.cnn.com_video",
   "www.dailymotion.com",
-  "www.funnyordie.com",
   "www.grindtv.com",
   "www.guardian.co.uk_video",
   "www.hulu.com",
@@ -101,12 +100,15 @@ var sites = [
   "www.ustream.tv_new",
   "www.vevo.com",
   "www.facebook.com",
+*/
+  "www.funnyordie.com",
+  "www.vimeo.com",
   "www.youtube.com",
-  "api-status",
+  "status",
 ];
 
 sites.forEach(function (v, i) {
-  transform(parse(snarf("../in/"+v+".tsv")), v);
+  transform(parse(snarf("../in/"+v+".api.tsv")), v);
 })
 
 print(JSON.stringify(model, null, 2));
